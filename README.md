@@ -1,5 +1,5 @@
-                            Healthcare Data Cleaning and Analysis
-        **Overview**
+ Healthcare Data Cleaning and Analysis
+     **Overview**
    
 This project focuses on the cleaning and analysis of a healthcare dataset. The data cleaning process aims to remove duplicates, handle missing values, and standardize columns, making the data ready for further analysis. The analysis identifies cities or demographics with higher healthcare needs based on health conditions and admission dates.
 
@@ -42,19 +42,7 @@ Cities Based on Admission Dates: This query examines the top 30 cities with the 
 
 sql
 
-SELECT City, Count(City) as cities_with_higher_health_needs'''
-
-FROM (SELECT TOP (30) City, Date_of_Admission, Health_Condition
-
-FROM dirty_healthcare_data
-
-WHERE Health_Condition = 'Poor'
-
-ORDER BY Date_of_Admission DESC
-
-) as sub
-
-GROUP BY City
+```SELECT City, Count(City) as cities_with_higher_health_needs FROM (SELECT TOP (30) City, Date_of_Admission, Health_Condition FROM dirty_healthcare_data WHERE Health_Condition = 'Poor' ORDER BY Date_of_Admission DESC) as sub GROUP BY City```
 
 Based on admission dates, Atlanta also had a high number of patients with poor health conditions.
 
