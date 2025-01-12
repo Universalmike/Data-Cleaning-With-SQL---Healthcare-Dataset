@@ -1,0 +1,1660 @@
+ID,Name,Age,Gender,City,Blood Type,Education,Employment Status,Salary,Health Condition,Credit Score,Date of Admission
+6812,Bobby JacksOn,78,M,Albuquerque,B-,Bachelor,Employed,"$80,000 ",Good,720,"Wednesday, January 31, 2024"
+9043,LesLie TErRy,17,F,Albuque,A+,Associate,Unemployed,$0 ,Excellent,N/A,"Tuesday, August 20, 2019"
+1495,DaNnY sMitH,15,Male,Albuque,A-,PhD,Self-employed,"$120,000 ",Poor,550,"Thursday, September 22, 2022"
+4309,andrEw waTtS,32,F,Albuque,O+,High School,Employed,"$45,000 ",Excellent,800,"Wednesday, November 18, 2020"
+8710,adrIENNE bEll,72,M,Albuque,AB+,Master's,Retired,"$50,000 ",Average,680,"Monday, September 19, 2022"
+1610,EMILY JOHNSOn,91,F,Albuque,A+,,Student,$0 ,Good,N/A,"Wednesday, December 20, 2023"
+7034,edwArD EDWaRDs,52,M,Albuquerque,AB-,,Unemployed,Missing,Poor,400,"Tuesday, November 3, 2020"
+3420,CHrisTInA MARtinez,52,F,Albuquerque,A+,Associate,Employed,"$65,000 ",,750,"Tuesday, December 28, 2021"
+8338,JASmINe aGuIlaR,56,Male,ALBUQUERQUE,AB+,High School,Self-employed,"$30,000 ",Excellent,600,"Wednesday, July 1, 2020"
+2517,ChRISTopher BerG,43,Female,ALBUQUERQUE,AB-,PhD,Employed,"$100,000 ",Average,790,"Sunday, May 23, 2021"
+9175,mIchElLe daniELs,20,Female,ALBUQUERQUE,O+,PhD,Retired,$0 ,Average,537,"Sunday, April 19, 2020"
+5518,aaRon MARtiNeZ,Unknown,Male,ALBUQUERQUE,A-,Bachelor's,Unemployed,$0 ,Excellent,None,"Sunday, August 13, 2023"
+4233,connOR HANsEn,46,M,ALBUQUERQUE,A+,High School,Unemployed,$0 ,Good,457,"Thursday, December 12, 2019"
+3752,rObeRt bAuer,16,M,ALBUQUERQUE,AB+,PhD,Unemployed,$0 ,,N/A,"Friday, May 22, 2020"
+7948,bROOkE brady,54,F,ALBUQUERQUE,AB+,Bachelor's,Retired,$0 ,,None,"Friday, October 8, 2021"
+8963,MS. nAtalIE gAMble,43,M,ALBUQUERQUE,AB-,,Student,$0 ,,N/A,"Sunday, January 1, 2023"
+3557,haley perkins,52,F,ALBUQUERQUE,A+,Master's,Self-employed,"$135,068 ",Average,794,2020-06-23
+5342,mRS. jamiE cAMPBELl,52,M,ALBUQUERQUE,AB-,PhD,Employed,"($50,975)",Good,None,2020-03-08
+2348,LuKE BuRgEss,22,M,ALBUQUERQUE,A-,Master's,Unemployed,$0 ,Good,814,2021-03-04
+3626,dANIEL schmIdt,49,M,Albuquerque,B+,PhD,Self-employed,"($102,073)",Poor,780,2022-11-15
+7611,tIMOTHY burNs,15,F,Albuquerque,A-,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2023-06-28
+4082,ChRISToPHEr BRiGhT,25,M,Albuquerque,B+,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2020-01-21
+8066,KatHRYn StewArt,20,F,Albuquerque,O+,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2022-05-12
+1317,dR. EilEEn thomPsoN,47,M,Albuquerque,A+,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2021-08-02
+1619,PAUl hEndERsOn,88,F,Albuquerque,AB+,Associate,Unemployed,$0 ,,N/A,2020-05-15
+2359,PeTER fiTzgeRaLd,27,M,Albuquerque,AB+,PhD,Employed,"$110,000 (Commission)",Good,830,2020-05-15
+1010,cathy sMaLl,36,F,Albuquerque,O-,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2023-12-23
+5803,mr. KenNEth MoORE,47,M,Albuquerque,A+,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2022-06-21
+8460,MaRy hUNter,1,Female,Albuquerque,O-,Bachelor's,Student (Full-time),$0 ,Excellent,None,2021-01-03
+8776,jOSHUA OLiVer,58,Male,Albuquerque,B+,PhD,Self-employed,$0 (Business Closed),Poor,480,2023-10-03
+2863,ThOMAS MartInEZ,42,,Albuquerque,B-,,Unemployed,$0 ,Excellent,N/A,2019-08-18
+4638,JAmES pattERson,50,,Albuquerque,A+,High School,Employed,"$40,000 ",Good,720,2019-11-03
+8111,WilLIAM cOOPEr,3,,Albuquerque,,Bachelor's,Student,$0 ,Excellent,None,2023-05-18
+2691,Erin oRTEga,1,,Albuquerque,AB-,,Self-employed,"$60,000 (Unstable)",Poor,580,2023-05-24
+5225,NicOlE RodriGUEz,21,,Albuquerque,AB+,Master's,Unemployed,$0 ,Average,650,2020-01-17
+3438,DAvID AndErSON,19,,Albuquerque,AB+,PhD,Retired,"$75,000 (Pension)",Excellent,810,2021-01-07
+5900,DEnIse ToRRES,46,,Albuquerque,AB+,Associate,Employed,"$50,000 ",Good,780,2019-10-14
+9548,CasSAndrA Robinson,95,,Albuquerque,B-,High School,Unemployed,$0 ,Poor,N/A,2021-12-19
+5313,NIcOlE LUcErO,24,,Albuquerque,O-,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2022-03-12
+5568,PAmela fErNanDeZ,41,,Albuquerque,B-,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2021-01-17
+4257,chRiSTOPHer LEe,50,,Albuquerque,B-,,Student (Full-time),$0 ,Good,None,2021-09-15
+4464,ThomAS morsE,51,,Albuquerque,,PhD,Employed,"$120,000 ",Excellent,830,2020-01-27
+3889,Mr. eRiC Lane,18,,Albuquerque,,Associate,Unemployed,$0 ,Poor,550,2022-06-24
+9983,KAThEriNE SmiTH,36,,Albuquerque,,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2021-06-09
+1749,pAUL wILLiAmS,18,,Albuquerque,,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2020-08-23
+2203,lYNn MaRtinez,27,,Albuquerque,O+,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2022-10-12
+2197,chRIsTOpHEr CHaPmAN,8,,Albuquerque,O+,PhD,Unemployed,$0 ,Poor,N/A,2021-12-01
+7680,CHRis fRYe,43,,Albuquerque,A-,Associate,Employed,"$45,000 ",Average,680,2020-05-04
+7500,kyLE bEnneTT,22,,Albuquerque,O+,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2023-09-09
+3708,BRandOn coLLINS,36,,Albuquerque,O+,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2019-07-19
+2921,mIchael LiU,64,,Albuquerque,AB-,,Unemployed,$0 ,Poor,480,2024-04-05
+8578,STepHaNie kEnt,30,,Albuquerque,A-,PhD,Employed,"$130,000 (Commission)",Average,710,2019-06-15
+4208,JessE BaNks,2,,Albuquerque,AB+,Associate,Unemployed,$0 ,Good,N/A,2022-10-29
+3022,PeGGY LEe,52,,Albuquerque,A-,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2022-04-08
+3496,TAmARa hErNAndez,39,,Albuquerque,B-,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2023-08-17
+7362,mR. DAVID pIERce Md,50,,Albuquerque,A-,Master's,Retired,"$60,000 (Social Security)",Average,740,2023-11-05
+9842,beThaNY MoOrE,49,,Albuquerque,A+,PhD,Unemployed,$0 ,Poor,N/A,2023-04-09
+8529,MIChael MIllS,45,,Albuquerque,O-,Associate,Employed,"$50,000 ",Good,690,2022-09-21
+8742,kyle Wiley,42,,Albuquerque,AB-,High School,Student (Full-time),$0 ,Excellent,None,2021-01-21
+9731,jACqUeLINE jORdaN,Unknown,,Albuquerque,O+,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2020-07-10
+5461,ASHleY guTIERreZ,49,,Albuquerque,AB+,,Unemployed,$0 ,Average,450,2019-11-06
+5083,Kim ScOtt,19,,Albuquerque,A-,PhD,Employed,"$140,000 (Commission)",Good,730,2024-04-07
+9892,tRAvIs carTeR,49,,Albuquerque,A+,Associate,Unemployed,$0 ,Poor,N/A,2022-07-06
+8709,LArry rodgeRs,36,,Albuquerque,B-,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2022-08-03
+9584,Nancy glOVeR,49,,Albuquerque,A-,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2020-05-08
+5845,JessIca king,43,,Albuquerque,AB-,Master's,Retired,"$65,000 (Social Security)",Good,760,2019-12-09
+4072,ChRiStOPhER gOnzAlez,31,,Albuquerque,B+,Master's,Student (Full-time),$0 ,Excellent,None,2019-11-21
+7680,jOhN hARTmAN,0,,Albuquerque,B-,PhD,Employed,"$90,000 ",Good,800,2023-01-07
+9125,MicHAEl MillEr,0,,Albuquerque,B+,Associate,Unemployed,$0 ,Poor,N/A,2024-02-06
+1101,Erica myERS,23,,Albuquerque,A+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2020-01-30
+7798,cAROl PaTtERSoN,30,,Albuquerque,O+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-10-24
+8801,JOSe LopEz,32,,Albuquerque,A-,,Retired,"$40,000 (Pension)",Good,710,2022-01-09
+8294,kEVIn SiMmoNs Jr.,51,,Albuquerque,AB-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-12-28
+4047,DuANe HaneY,16,,Albuquerque,AB-,High School,Employed,"$55,000 ",Excellent,780,2021-09-16
+1368,JONathAn yaTeS,28,,Albuquerque,AB-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2023-07-24
+3959,johN THoMaS,35,,Albuquerque,A+,Master's,Self-employed,"$140,000 ",Excellent,850,2021-11-13
+4867,AdriaN BuckLEY,26,,Albuquerque,A-,,Unemployed,$0 ,Poor,420,2023-10-11
+7397,apRil SANTIAgO,18,,Albuquerque,B-,PhD,Employed,"$100,000 ",Average,750,2021-01-30
+3773,DIane scHultz,23,,Albuquerque,B+,Associate,Unemployed,$0 ,Good,N/A,2021-11-21
+4410,tiMOThY myers,40,,Albuquerque,B+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2024-03-02
+2110,NICOLE HUGhes,52,,Albuquerque,O+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2020-12-04
+7403,ChAd MorEnO,19,,Albuquerque,AB+,Master's,Retired,"$50,000 (Social Security)",Average,700,2020-08-26
+1847,SeaN jenniNGs,19,,Albuquerque,AB-,PhD,Unemployed,$0 ,Poor,N/A,2023-11-12
+3333,DIAnE brAnch,42,,Albuquerque,O+,Associate,Employed,"$40,000 ",Good,650,2020-05-30
+1449,cindY OROzco,17,,Albuquerque,B-,High School,Student (Full-time),$0 ,Excellent,None,2023-05-12
+4388,pAtriCIa MEdinA,45,,Albuquerque,AB+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2022-07-07
+3952,kayLa padillA,21,,Albuquerque,B-,,Unemployed,$0 ,Average,400,2020-09-24
+2601,JUan klEiN,42,,Albuquerque,B-,PhD,Employed,"$110,000 (Commission)",Good,770,2023-08-19
+5147,wILLIAM hIlL,42,,Albuquerque,A+,Associate,Unemployed,$0 ,Poor,N/A,2023-05-16
+1158,CARL BEst,94,,Albuquerque,B+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2022-08-22
+4422,TInA GriFfin,33,,Albuquerque,B+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2022-06-17
+8731,MR. TYler TAYLOR Phd,33,,Albuquerque,A+,Master's,Retired,"$55,000 (Social Security)",Good,730,2022-11-05
+6268,TAyLoR howeLl Dds,57,,Albuquerque,B+,PhD,Unemployed,$0 ,Excellent (?!),N/A,2021-09-10
+2194,mIcHAeL MaRTIn,55,,Albuquerque,A+,Associate,Unemployed,$0 ,Poor,N/A,2022-09-06
+7418,heatHER mIller,29,,Albuquerque,A+,Master's,Self-employed,"$120,000 ",Good,810,2021-04-17
+9967,cathERinE gArDnEr,53,,Albuquerque,A-,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2019-08-19
+3790,ANNE THOMPSoN,17,,Albuquerque,O+,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2024-03-24
+6185,TOdd coopeR,16,,Albuquerque,,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2022-12-10
+2554,PhILLIP lyOnS,23,,Albuquerque,B-,Master's,Student (Full-time),$0 ,Excellent,None,2022-09-14
+7325,MaRk foRD,42,,Albuquerque,B+,PhD,Employed,"$90,000 ",Good,800,2022-10-18
+8606,mARcUS ZAmorA,25,,Albuquerque,O+,Associate,Unemployed,$0 ,Poor,N/A,2021-11-13
+7069,KaTiE hENry,26,,Albuquerque,B+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2022-07-08
+6543,wilLIAm morTON,Unknown,,Albuquerque,A+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2023-06-25
+6682,KaTRina maRTin,66,,Albuquerque,A-,,Retired,"$40,000 (Pension)",Good,710,2019-07-09
+5228,HunTeR mckAy,5,,Albuquerque,A-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-05-14
+8865,dWAYnE DAViS,74,,Albuquerque,O+,High School,Employed,"$55,000 ",Excellent,780,2024-01-15
+7422,sARAH CalDweLL,20,,Albuquerque,A-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2019-09-30
+9921,DAVid higgInS,20,,Albuquerque,B-,Master's,Self-employed,"$140,000 ",Excellent,850,2021-03-05
+2213,bRADlEY coMbS,69,,Albuquerque,AB-,,Unemployed,$0 ,Poor,420,2021-05-14
+9394,chrisTiNa SChMitt,37,,Albuquerque,B+,PhD,Employed,"$100,000 ",Average,750,2023-06-08
+2891,coLtoN stRONg,30,,Albuquerque,AB-,Associate,Unemployed,$0 ,Good,N/A,2022-05-13
+6951,MARK priCE,36,,Albuquerque,B-,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2022-09-22
+8767,sUZaNnE SchNeIder,59,,Albuquerque,AB-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2023-08-25
+6332,MIchaEL HUrLEY,33,,Albuquerque,AB-,Master's,Retired,"$50,000 (Social Security)",Average,700,2019-06-02
+9106,LIndsEy laMbErt,2,,Albuquerque,A+,PhD,Unemployed,$0 ,Poor,N/A,2021-11-19
+8537,reBEcCA PARsONs,40,,Albuquerque,O+,Associate,Employed,"$40,000 ",Good,650,2019-12-02
+7594,jUdy joHNsoN,20,,Albuquerque,AB-,High School,Student (Full-time),$0 ,Excellent,None,2020-08-21
+1593,TOnyA caMpbell,36,,Albuquerque,B+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2021-02-12
+9873,JAMEs Ross,57,,Albuquerque,A+,,Unemployed,$0 ,Average,400,2024-01-13
+2822,SaRA COOk,55,,Albuquerque,O-,PhD,Employed,"$110,000 (Commission)",Good,770,2021-12-26
+5175,annE howeLl,49,,Albuquerque,A-,Associate,Unemployed,$0 ,Poor,N/A,2022-08-22
+7316,RENEE bAilEY,Unknown,,Albuquerque,B+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2021-07-03
+8589,Jeffrey tuRNER,54,,Albuquerque,O+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2020-05-31
+8045,DR. LaUreN ClaRk DDs,34,,Albuquerque,B+,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-10-26
+3385,terRY THoMaS,26,,Albuquerque,B-,Master's,Student (Full-time),$0 ,Excellent,None,2021-06-03
+5887,JasOn baKEr,1,,Albuquerque,O-,PhD,Employed,"$150,000 (Commission)",Good,820,2020-10-24
+7953,JEssicA gUtiERrEz,45,,Albuquerque,O+,Associate,Unemployed,$0 ,Poor,N/A,2019-08-27
+6564,COURTNey HOdGes,27,,Albuquerque,AB-,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2021-11-30
+5376,ANthONy reYEs,1,,Albuquerque,AB+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2023-10-15
+4582,LeaH cRoSs Dds,43,,Albuquerque,AB+,,Unemployed,$0 ,Poor,380 (Typo),2024-03-17
+3199,PaUL MaRTinEz,38,,Albuquerque,B+,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2019-10-13
+5943,DenisE rOdRIGuEZ,19,,Albuquerque,A-,High School,Employed,"$60,000 ",Excellent,800,2020-03-02
+3973,ashLEy ERIcKSoN,26,,Albuquerque,AB-,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2019-11-05
+6217,SEaN carDenaS,26,,Albuquerque,B-,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2021-02-07
+3855,aLaN AlVaREz,38,,Albuquerque,B+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2021-10-25
+1419,JeSsICA phiLliPS,28,,Albuquerque,O-,High School (GED),Unemployed,$0 ,Poor,N/A,2022-07-24
+5507,tiMOthY CoLemaN,44,,Albuquerque,AB+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2020-03-04
+6601,cHristina wooDS,74,,Albuquerque,B-,,Student (Internship),"$20,000 (Stipend)",Good,None,2021-08-01
+6227,mELIssa sCOtt,8,,Albuquerque,AB+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2020-01-24
+4915,GaRy hoPkiNS,33,,Albuquerque,O+,Master's,Unemployed,$0 ,Poor,N/A,2021-07-30
+4894,aPRIL VAleNCIA,33,,Albuquerque,A+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2024-01-04
+9638,riTA archER,28,,Albuquerque,O-,High School,Employed,"$60,000 ",Excellent,810,2024-01-05
+3651,kIm PenA,27,,Albuquerque,O-,Bachelor's,Student (Full-time),$0 ,Good,None,2020-08-11
+7267,jaSoN FOlEy,14,,Albuquerque,B+,,Self-employed,"$120,000 (Seasonal)",Average,660,2022-06-17
+1180,ShAUN GuzmAn,40,,Albuquerque,AB-,Associate,Unemployed,$0 ,Poor,N/A,2022-04-02
+5216,MATTHeW wHite,34,,Albuquerque,AB+,PhD,Employed,"$130,000 (Commission)",Good,740,2020-06-03
+1808,aLExiS wilsOn,32,,Albuquerque,B+,Master's,Student (Full-time),$0 ,Excellent,None,2019-08-16
+7437,JaCQueLiNE maRshAll,59,,Albuquerque,A+,PhD,Employed,"$90,000 ",Good,800,2024-02-22
+3425,RoBErt hIGGInS,38,,Albuquerque,AB-,Associate,Unemployed,$0 ,Poor,N/A,2021-05-06
+7988,SierRa MoRTON,58,,Albuquerque,B-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2021-10-27
+7715,nATAliE sTANtoN,36,,Albuquerque,B+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2020-09-01
+5540,jEssica aceveDo,56,,Albuquerque,O+,,Retired,"$40,000 (Pension)",Good,710,2021-05-26
+6242,JENnIfEr mCmillan,42,,Albuquerque,A-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2022-06-22
+1949,ChRISTopher mccLAiN,31,,Albuquerque,O-,High School,Employed,"$55,000 ",Excellent,780,2023-05-17
+6700,kevIn HiCKs,21,,Albuquerque,AB+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2021-06-23
+4055,MELIndA richARds,15,,Albuquerque,A-,Master's,Self-employed,"$140,000 ",Excellent,850,2023-11-17
+1453,roBYn miRaNDa,41,,Albuquerque,A-,,Unemployed,$0 ,Poor,420,2020-10-11
+6430,scoTt caSTillO,20,,Albuquerque,O+,PhD,Employed,"$100,000 ",Average,750,2021-08-10
+9459,jOHN GarciA,21,,Albuquerque,A+,Associate,Unemployed,$0 ,Good,N/A,2023-08-29
+5418,miCHAeL TayloR,30,,Albuquerque,O-,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-02-27
+3596,jeFfReY WoOd,22,,Albuquerque,AB-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2021-07-07
+7208,MiCHAEl smIth,9,,Albuquerque,AB-,Master's,Retired,"$50,000 (Social Security)",Average,700,2022-06-03
+8214,wiLLiam grIFfItH,44,,Albuquerque,B-,PhD,Unemployed,$0 ,Poor,N/A,2020-02-20
+8998,CHrISTiNa lAwReNCe,43,,Albuquerque,AB-,Associate,Employed,"$40,000 ",Good,650,2021-02-05
+8511,jeSsiCA HolmeS,Unknown,,Albuquerque,O-,High School,Student (Full-time),$0 ,Excellent,None,2020-10-24
+7082,traCEY grEenE,0,,Albuquerque,O-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2023-12-06
+2122,aMAnda lOpeZ,53,,Albuquerque,O+,,Unemployed,$0 ,Average,400,2021-12-21
+5321,LaurA pEtErS,65,,Albuquerque,A-,PhD,Employed,"$110,000 (Commission)",Good,770,2023-09-03
+1432,LAUrEn ANDErSOn,30,,Albuquerque,O-,Associate,Unemployed,$0 ,Poor,N/A,2020-10-18
+4938,wILliAm CAmpos,26,,Albuquerque,B+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2021-07-07
+5840,jEssiCa GoNzAleS,53,,Albuquerque,O+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-08-28
+4861,brUcE gOnzaleS,0,,Albuquerque,O+,Master's,Retired,"$55,000 (Social Security)",Good,730,2019-11-17
+4802,rOBert WAlsH,53,,Albuquerque,B+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2020-11-22
+6239,lIsA LeWis,44,,Albuquerque,O-,High School (GED),Unemployed,$0 ,Poor,N/A,2021-11-13
+1265,WiLlIaM RUiZ,46,,Albuquerque,B+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2022-02-13
+3685,StEven BALdWIn,22,,Albuquerque,O+,,Student (Internship),"$20,000 (Stipend)",Good,None,2019-05-16
+5236,meGAn CoLON,27,,Albuquerque,AB+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2021-08-04
+3342,kImbErlY brOoks,53,,Albuquerque,B-,Master's,Unemployed,$0 ,Poor,N/A,2020-01-03
+3933,EdWARd SMiTh jR.,27,,Albuquerque,A+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2022-09-13
+1451,aLliSoN CorDoVA,24,,Albuquerque,O-,High School,Employed,"$60,000 ",Excellent,810,2020-12-19
+4304,lINdA THOMAs,33,,Albuquerque,AB+,Bachelor's,Student (Full-time),$0 ,Good,None,2023-03-31
+5277,paRkEr moOrE,90,,Albuquerque,B-,,Self-employed,"$120,000 (Seasonal)",Average,660,2020-05-08
+4772,tanya SOto,23,,Albuquerque,AB+,Associate,Unemployed,$0 ,Poor,N/A,2023-07-31
+5934,mIChaEL jOrdaN,47,,Albuquerque,AB-,PhD,Employed,"$130,000 (Commission)",Good,740,2022-01-09
+2277,ChRiSTINA MArTin,48,,Albuquerque,A-,Bachelor,Employed,"$80,000 ",Good,720,2023-12-16
+3118,TrACy BUrke,Unknown,,Albuquerque,A+,Associate,Unemployed,$0 ,Excellent,N/A,2020-12-05
+1520,daVID SPeNCE,37,,Albuquerque,AB+,PhD,Self-employed,"$120,000 ",Poor,550,2021-11-11
+4952,JOsEph fOstER,23,,Albuquerque,O+,High School,Employed,"$45,000 ",Excellent,800,2019-09-11
+9341,NIcholAs haLl,21,,Albuquerque,A-,Master's,Retired,"$50,000 ",Average,680,2020-12-15
+9377,ChriSTiNA maCiAS,22,,Albuquerque,O+,,Student,$0 ,Good,N/A,2022-12-08
+3788,scoTT JoNes,34,,Albuquerque,B+,,Unemployed,Missing,Poor,400,2021-07-15
+9065,jaMEs AnDerSon,21,,Albuquerque,AB+,Associate,Employed,"$65,000 ",,750,2022-06-16
+4823,sHaUN LonG,48,,Albuquerque,A+,High School,Self-employed,"$30,000 ",Excellent,600,2024-02-09
+4452,krIStInA morA,21,,Albuquerque,AB+,PhD,Employed,"$100,000 ",Average,790,2024-03-04
+1025,joshUa rIcHmOnd,45,,Albuquerque,A+,PhD,Retired,$0 ,Average,537,2022-02-11
+7029,Mark lAWrencE,43,,Albuquerque,O-,Bachelor's,Unemployed,$0 ,Excellent,None,2022-02-08
+2178,JOhN eLlis,25,,Albuquerque,A-,High School,Unemployed,$0 ,Good,457,2023-06-15
+8585,MRs. TiFFAny DeNnIs,36,,Albuquerque,O-,PhD,Unemployed,$0 ,,N/A,2021-10-11
+7027,cyNTHIa HuANG,Unknown,,Albuquerque,O+,Bachelor's,Retired,$0 ,,None,2021-12-12
+7973,meLiSSA LawRENcE,32,,Albuquerque,O+,,Student,$0 ,,N/A,2023-07-09
+6591,STEvEn goodwIN,43,,Albuquerque,A-,Master's,Self-employed,"$135,068 ",Average,794,2020-09-08
+6819,mARY HuNT,Unknown,,Albuquerque,AB-,PhD,Employed,"($50,975)",Good,None,2020-08-31
+8499,ERic riveRa,31,,Albuquerque,AB+,Master's,Unemployed,$0 ,Good,814,2024-04-10
+2523,ALAn tayLor,17,,Albuquerque,B-,PhD,Self-employed,"($102,073)",Poor,780,2021-08-10
+5088,mIcHaEL cAMPbeLl,23,,Albuquerque,O-,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2022-01-25
+7336,asHLEY webb ddS,31,,Albuquerque,AB-,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2023-09-12
+6405,SHaNNON broWn,62,,Albuquerque,B-,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2020-08-05
+4861,LAwrenCE shEPherD,57,,Albuquerque,A-,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2022-05-07
+3650,scoTt wADE,18,,Albuquerque,A+,Associate,Unemployed,$0 ,,N/A,2022-02-13
+3193,heAthER curTis,64,,Albuquerque,AB+,PhD,Employed,"$110,000 (Commission)",Good,830,2024-03-03
+5167,kEvIN jEFFeRsON,Unknown,,Albuquerque,B+,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2020-03-14
+3332,dAvId gRifFIn,Unknown,,Albuquerque,AB-,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2024-02-07
+6731,GRanT GeoRge,Unknown,,Albuquerque,O+,Bachelor's,Student (Full-time),$0 ,Excellent,None,2019-07-21
+9131,eRIc SteWART,42,,Albuquerque,O+,PhD,Self-employed,$0 (Business Closed),Poor,480,2023-04-14
+4815,RoBErt pittmAn,Unknown,,Albuquerque,B-,,Unemployed,$0 ,Excellent,N/A,2024-01-17
+7765,SYdNey Cross,60,,Albuquerque,O+,High School,Employed,"$40,000 ",Good,720,2019-06-25
+1415,DaviD CrawfoRD,17,,Albuquerque,AB-,Bachelor's,Student,$0 ,Excellent,None,2021-05-20
+9558,LEAH DRaKE,49,,Albuquerque,B-,,Self-employed,"$60,000 (Unstable)",Poor,580,2020-04-03
+5996,DiAna hALL,49,,Albuquerque,B-,Master's,Unemployed,$0 ,Average,650,2020-01-21
+1077,JUsTIN lE,29,,Albuquerque,AB-,PhD,Retired,"$75,000 (Pension)",Excellent,810,2021-12-02
+7356,KaREn pricE dDs,14,,Albuquerque,AB+,Associate,Employed,"$50,000 ",Good,780,2021-05-28
+5481,CaROlYN sTEeLE,21,,Albuquerque,AB+,High School,Unemployed,$0 ,Poor,N/A,2020-03-23
+8099,LAURen RAMireZ,0,,Albuquerque,A+,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2022-08-06
+2014,jAcOb nEWman,54,,Albuquerque,A+,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2024-03-09
+1157,KAThErInE BARnEtt,Unknown,,Albuquerque,AB-,,Student (Full-time),$0 ,Good,None,2022-03-15
+7085,JODI martiNeZ,62,,Albuquerque,AB+,PhD,Employed,"$120,000 ",Excellent,830,2020-08-08
+8629,andrEa aLlEN,49,,Albuquerque,AB+,Associate,Unemployed,$0 ,Poor,550,2019-06-09
+4307,nOah baxtEr,60,,Albuquerque,AB-,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2019-09-07
+7750,hECTOR MAXweLL,Unknown,,Albuquerque,A-,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2021-02-14
+6079,holLy WALters,31,,Albuquerque,A-,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2019-11-10
+4495,JOsepH SmIth,69,,Albuquerque,O+,PhD,Unemployed,$0 ,Poor,N/A,2023-04-16
+1233,albERt tHOmAS,30,,Albuquerque,B+,Associate,Employed,"$45,000 ",Average,680,2020-04-25
+1935,jeFfErY WIlliaMSOn,1,,Albuquerque,A-,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-08-21
+2576,joNAthAn meADOWS,37,,Albuquerque,O+,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2021-01-14
+7911,kRIStIN BeNnETT,44,,Albuquerque,AB+,,Unemployed,$0 ,Poor,480,2020-09-12
+2629,miCHaEl SmITh,4,,Albuquerque,AB+,PhD,Employed,"$130,000 (Commission)",Average,710,2020-03-27
+1370,JOSepH cARpenteR,Unknown,,Albuquerque,A-,Associate,Unemployed,$0 ,Good,N/A,2019-07-26
+5110,larRy MaYEr,34,,Albuquerque,A+,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2023-12-07
+9922,CLaYTON PEterSon,29,,Albuquerque,B-,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2021-06-11
+3038,donaLD aLVArEZ,33,,Albuquerque,O-,Master's,Retired,"$60,000 (Social Security)",Average,740,2022-02-11
+6548,SaRAh leE,21,,Albuquerque,O+,PhD,Unemployed,$0 ,Poor,N/A,2020-09-12
+9624,joHN peReZ,55,,Albuquerque,AB-,Associate,Employed,"$50,000 ",Good,690,2020-05-25
+6222,Timothy jAcobS,18,,Albuquerque,O+,High School,Student (Full-time),$0 ,Excellent,None,2023-09-25
+8712,nAThaN sMall,25,,Albuquerque,B+,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2022-06-22
+4980,dUSTin WriGhT,43,,Albuquerque,O+,,Unemployed,$0 ,Average,450,2020-01-12
+9268,jacOb wilLiAMS,27,,Albuquerque,B+,PhD,Employed,"$140,000 (Commission)",Good,730,2022-07-29
+1389,wiLlIAm mcCOY,30,,Albuquerque,A-,Associate,Unemployed,$0 ,Poor,N/A,2023-02-20
+9126,dr. MATthEW wilkinS,32,,Albuquerque,A-,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2021-07-14
+7061,JosEpH gONZaLeZ,24,,Albuquerque,O+,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2024-04-17
+2730,rObErt fiElDS,38,,Albuquerque,A+,Master's,Retired,"$65,000 (Social Security)",Good,760,2021-02-04
+1890,lawrencE mIRAndA,1,,Albuquerque,O-,Master's,Student (Full-time),$0 ,Excellent,None,2021-09-02
+8941,mitCheLl caRrOlL,24,,Albuquerque,B-,PhD,Employed,"$90,000 ",Good,800,2022-09-10
+9624,COdY nIcHoLs,Unknown,,Albuquerque,A+,Associate,Unemployed,$0 ,Poor,N/A,2022-11-25
+1111,KELlI tHompSOn,58,,Albuquerque,O-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2023-08-04
+2174,dAnIElle lOPeZ,37,,Albuquerque,O-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2020-11-20
+6880,melINda JONES,26,,Albuquerque,AB-,,Retired,"$40,000 (Pension)",Good,710,2019-10-23
+1648,KRiSTIN sMith,31,,Albuquerque,AB+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2020-10-17
+4157,StEphaniE REYNolDs,31,,Albuquerque,O+,High School,Employed,"$55,000 ",Excellent,780,2022-12-27
+8083,AnNA NORMaN,31,,Albuquerque,B+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2023-06-16
+5775,MAria haYeS,52,,Albuquerque,A+,Master's,Self-employed,"$140,000 ",Excellent,850,2023-11-06
+4632,toNya riLEy mD,30,,Albuquerque,A+,,Unemployed,$0 ,Poor,420,2023-12-26
+5795,REgiNa DUnn,33,,Albuquerque,B-,PhD,Employed,"$100,000 ",Average,750,2023-02-10
+5053,mIcHael JACoBS,25,,Albuquerque,O+,Associate,Unemployed,$0 ,Good,N/A,2020-07-01
+6774,jaSon mOOrE md,33,,Albuquerque,AB+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2023-09-21
+9175,eRiC HALl,28,,Albuquerque,B+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2020-11-25
+8859,MALIk MARtINeZ,31,,Albuquerque,A+,Master's,Retired,"$50,000 (Social Security)",Average,700,2020-07-10
+6515,LisA KENNEdY,31,,Albuquerque,B-,PhD,Unemployed,$0 ,Poor,N/A,2022-12-24
+4850,kRIstIn ocHOA,46,,Albuquerque,B+,Associate,Employed,"$40,000 ",Good,650,2019-10-05
+5985,joSeph ZuNiGA,23,,Albuquerque,O-,High School,Student (Full-time),$0 ,Excellent,None,2022-03-13
+5503,kYLe TYlER,52,,Albuquerque,AB+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2020-05-15
+2970,eric duNCan,26,,Albuquerque,AB-,,Unemployed,$0 ,Average,400,2020-12-02
+1229,raChel roMERo,22,,Albuquerque,AB+,PhD,Employed,"$110,000 (Commission)",Good,770,2024-01-08
+2799,mIcHael anDeRson,Unknown,,Albuquerque,AB-,Associate,Unemployed,$0 ,Poor,N/A,2019-08-16
+1810,emILY clARK,49,,Albuquerque,AB+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2023-03-23
+7123,danIeL mCKINnEy,33,,Albuquerque,O+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2020-01-20
+1553,BOnnIe WILlIaMS,53,,Albuquerque,B-,Master's,Retired,"$55,000 (Social Security)",Good,730,2024-01-23
+2624,MARcUs henry,35,,Albuquerque,B-,PhD,Unemployed,$0 ,Excellent (?!),N/A,2022-12-20
+2982,katheRiNE HART,46,,Albuquerque,A+,Associate,Unemployed,$0 ,Poor,N/A,2021-08-10
+9941,MIchelle pIeRCE,27,,Albuquerque,O-,Master's,Self-employed,"$120,000 ",Good,810,2020-11-23
+1355,Julie Mejia,20,,Albuquerque,A-,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2020-02-10
+2879,cAMeRoN sAnChEz,70,,Albuquerque,A+,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2019-06-04
+9692,davId Vincent,59,,Albuquerque,O+,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2023-09-24
+6487,MeLiSSA gOMez,34,,Albuquerque,B-,Master's,Student (Full-time),$0 ,Excellent,None,2021-08-16
+7364,AMAnDa pONCe,24,,Albuquerque,AB-,PhD,Employed,"$90,000 ",Good,800,2020-07-06
+3769,CArOl GOMEz,24,,Albuquerque,B-,Associate,Unemployed,$0 ,Poor,N/A,2022-12-07
+8820,cHRISTopHEr PalmER,Unknown,,Albuquerque,AB-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2023-12-29
+3496,PAUL Hahn,10,,Albuquerque,O-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2023-02-16
+3935,aSHLeY MOORe,39,,Albuquerque,B+,,Retired,"$40,000 (Pension)",Good,710,2022-05-12
+5563,lINDa haMiLTOn,11,,Albuquerque,O+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-09-20
+1082,robiN coX,23,,Albuquerque,O-,High School,Employed,"$55,000 ",Excellent,780,2020-01-11
+2104,AnthoNY HalL,39,,Albuquerque,O-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2022-03-30
+9669,roberT smitH,47,,Albuquerque,AB+,Master's,Self-employed,"$140,000 ",Excellent,850,2020-05-11
+1017,dEREK CARTER,30,,Albuquerque,O+,,Unemployed,$0 ,Poor,420,2022-01-20
+1316,HEAthER MAY,22,,Albuquerque,A-,PhD,Employed,"$100,000 ",Average,750,2019-11-13
+4311,pETer gOnzAlEZ,31,,Albuquerque,AB-,Associate,Unemployed,$0 ,Good,N/A,2021-02-03
+8672,chrIs flEtCheR,63,,Albuquerque,AB+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-10-24
+1170,sHIRley wiLkinsoN,33,,Albuquerque,O+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2022-10-03
+5695,COurtNey FaRRelL,9,,Albuquerque,B+,Master's,Retired,"$50,000 (Social Security)",Average,700,2023-12-24
+2981,aNDReA WiLliS,6,,Albuquerque,AB-,PhD,Unemployed,$0 ,Poor,N/A,2023-11-18
+2793,cHAD huFF,5,,Albuquerque,AB+,Associate,Employed,"$40,000 ",Good,650,2024-03-12
+8606,dEvin giLBert,32,,Albuquerque,A+,High School,Student (Full-time),$0 ,Excellent,None,2023-04-12
+7385,DOnALD davIS,42,,Albuquerque,O+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2021-06-16
+2702,KUrT murphy,55,,Albuquerque,AB-,,Unemployed,$0 ,Average,400,2021-11-24
+1822,SYlvia wEsT,54,,Albuquerque,B-,PhD,Employed,"$110,000 (Commission)",Good,770,2020-07-06
+7933,DONaLd vAZQuEZ,Unknown,,Albuquerque,AB-,Associate,Unemployed,$0 ,Poor,N/A,2022-06-26
+7490,REbeCCA rUsH,Unknown,,Albuquerque,AB-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2020-07-21
+5510,ChrIstoPhER curRY,39,,Albuquerque,A-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2019-11-04
+9962,miCHaeL EdwARds,20,,Albuquerque,AB+,Master's,Retired,"$55,000 (Social Security)",Good,730,2021-11-01
+2928,cHriSTOPheR ARnoLd,39,,Albuquerque,B+,Master's,Student (Full-time),$0 ,Excellent,None,2019-11-17
+1607,RAcheL hickmAn,Unknown,,Albuquerque,B+,PhD,Employed,"$150,000 (Commission)",Good,820,2022-12-19
+7156,ashlEY grAy,Unknown,,Albuquerque,A+,Associate,Unemployed,$0 ,Poor,N/A,2020-10-06
+3693,eLiZaBeTh PeREz,Unknown,,Albuquerque,AB-,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2022-01-16
+6778,ANgeL RaNDOlPH ddS,43,,Albuquerque,A+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2023-07-06
+3150,maRk SaUNderS,50,,Albuquerque,O+,,Unemployed,$0 ,Poor,380 (Typo),2021-06-12
+5135,ChriSTiAn lAnG,26,,Albuquerque,AB+,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2019-08-27
+6811,Pam perKIns,58,,Albuquerque,AB-,High School,Employed,"$60,000 ",Excellent,800,2022-05-17
+7528,kAyLA GrEENe,30,,Albuquerque,AB+,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2020-10-02
+2726,mIcHAEl daVId,21,,Albuquerque,O+,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2021-08-20
+4625,aLeXIs mCcALl,30,,Albuquerque,O-,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2019-11-05
+4040,mr. brandON perEz md,42,,Albuquerque,O-,High School (GED),Unemployed,$0 ,Poor,N/A,2024-02-06
+8766,dr. jeffREy ColE,Unknown,,Albuquerque,O-,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2024-02-07
+8080,maTthEw broWN,30,,Albuquerque,O+,,Student (Internship),"$20,000 (Stipend)",Good,None,2023-06-22
+6684,RoBErT sExtON,Unknown,,Albuquerque,A-,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2020-11-19
+4469,ashLEy vasQUEZ,Unknown,,Albuquerque,O+,Master's,Unemployed,$0 ,Poor,N/A,2021-11-24
+8154,mIcHelLe FLYnn,66,,Albuquerque,O-,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2019-07-26
+3111,StEVEn trAn,44,,Albuquerque,AB+,High School,Employed,"$60,000 ",Excellent,810,2022-07-05
+3284,JAMeS MilLeR,32,,Albuquerque,O+,Bachelor's,Student (Full-time),$0 ,Good,None,2019-08-29
+7448,Bonnie hiLl,Unknown,,Albuquerque,B+,,Self-employed,"$120,000 (Seasonal)",Average,660,2024-05-02
+9761,AnTHONy DaviS,Unknown,,Albuquerque,B+,Associate,Unemployed,$0 ,Poor,N/A,2020-05-26
+3574,DaViD ShEPPArD,27,,Albuquerque,B+,PhD,Employed,"$130,000 (Commission)",Good,740,2024-03-20
+4566,JOdi LAnG,25,,Albuquerque,O+,Master's,Student (Full-time),$0 ,Excellent,None,2024-03-27
+2313,VaNeSSa TAylor,Unknown,,Albuquerque,O+,PhD,Employed,"$90,000 ",Good,800,2021-03-22
+4469,WAYnE lyncH,Unknown,,Albuquerque,O-,Associate,Unemployed,$0 ,Poor,N/A,2020-10-03
+5570,YEsENiA MCfarland,Unknown,,Albuquerque,B+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2023-05-17
+8187,KEnNETH WilSON,Unknown,,Albuquerque,A+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-08-12
+9913,JIlLiAn MArks,Unknown,,Albuquerque,A-,,Retired,"$40,000 (Pension)",Good,710,2020-06-20
+8401,MiCHELLe cruz ddS,39,,Albuquerque,AB+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-04-20
+6964,CLaREnce fORD jr.,24,,Albuquerque,A-,High School,Employed,"$55,000 ",Excellent,780,2019-10-28
+5901,DonAlD kaNe,Unknown,,Albuquerque,O+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2021-08-31
+2966,ZaChaRY LARsEN,19,,Albuquerque,A+,Master's,Self-employed,"$140,000 ",Excellent,850,2021-07-14
+3097,sHeRYl MaRTinez,19,,Albuquerque,A-,,Unemployed,$0 ,Poor,420,2022-01-21
+9317,mr. NaTHAN avILA,Unknown,,Albuquerque,O+,PhD,Employed,"$100,000 ",Average,750,2019-09-16
+9802,aNnE aNTHONY,Unknown,,Albuquerque,AB+,Associate,Unemployed,$0 ,Good,N/A,2023-01-20
+7644,hOlly LaMBERt,Unknown,,Albuquerque,A+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-01-04
+1360,JAmes rASmuSsen,59,,Albuquerque,AB-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2024-03-03
+9648,SaRAH cannON,59,,Albuquerque,AB+,Master's,Retired,"$50,000 (Social Security)",Average,700,2019-07-06
+6766,melInda tannER,Unknown,,Albuquerque,AB-,PhD,Unemployed,$0 ,Poor,N/A,2022-12-01
+3429,LauriE josEPh,Unknown,,Albuquerque,B-,Associate,Employed,"$40,000 ",Good,650,2020-05-10
+6329,stEPHAnIe hUnteR,Unknown,,Albuquerque,AB+,High School,Student (Full-time),$0 ,Excellent,None,2024-03-10
+7508,gIna daviS,73,,Albuquerque,AB+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2020-01-14
+9444,chRiStoPheR sHEA Jr.,17,,Albuquerque,B-,,Unemployed,$0 ,Average,400,2020-06-07
+6813,MrS. SabRIna BaLL,41,,Albuquerque,AB-,PhD,Employed,"$110,000 (Commission)",Good,770,2020-11-11
+4978,JoyCe McCoRmIcK,Unknown,,Albuquerque,O+,Associate,Unemployed,$0 ,Poor,N/A,2021-05-07
+4140,DEVIN bElL,Unknown,,Albuquerque,B-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2021-07-13
+6908,alLISoN rAmiREZ,34,,Albuquerque,B+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2024-03-25
+8041,lauRA roMERO,Unknown,,Albuquerque,O+,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-03-25
+6292,TONi fAULKNer,56,,Albuquerque,AB-,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2023-05-14
+9148,patrIcia tuRnEr,Unknown,,Albuquerque,AB+,High School (GED),Unemployed,$0 ,Poor,N/A,2022-11-19
+1772,naThaN rAy,Unknown,,Albuquerque,AB+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2021-03-10
+6796,RYan sAnCHeZ,Unknown,,Albuquerque,A-,,Student (Internship),"$20,000 (Stipend)",Good,None,2020-11-15
+6786,tHOMas DENnIs,Unknown,,Albuquerque,A+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2024-01-28
+9904,mR. timOtHY FLoRES,25,,Albuquerque,A-,Master's,Unemployed,$0 ,Poor,N/A,2020-07-07
+1423,WeNDy lEVIne,Unknown,,Albuquerque,AB-,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2023-01-22
+4534,nicOLe gOnzAleZ,20,,Albuquerque,A-,High School,Employed,"$60,000 ",Excellent,810,2020-05-10
+1613,miCHaeL eLlIsoN,23,,Albuquerque,O+,Bachelor's,Student (Full-time),$0 ,Good,None,2021-07-09
+3292,BRAndON dAVIS,Unknown,,Albuquerque,O-,,Self-employed,"$120,000 (Seasonal)",Average,660,2020-06-11
+6204,vaNESsa GArCia,21,,Albuquerque,AB-,Associate,Unemployed,$0 ,Poor,N/A,2020-04-21
+7951,AUtUmn PEck,40,,Albuquerque,A+,PhD,Employed,"$130,000 (Commission)",Good,740,2019-10-06
+6372,NAthAnIEL REynoLdS,Unknown,,Albuquerque,O-,Bachelor,Employed,"$80,000 ",Good,720,2020-07-11
+8327,JOYCE MoOdY,Unknown,,Albuquerque,AB-,Associate,Unemployed,$0 ,Excellent,N/A,2022-04-03
+1794,MaRK FuEnTes,19,,Albuquerque,A-,PhD,Self-employed,"$120,000 ",Poor,550,2020-01-21
+3204,brETT FerGusoN,Unknown,,Albuquerque,A+,High School,Employed,"$45,000 ",Excellent,800,2022-12-16
+2816,TravIS SiMMOnS,Unknown,,Albuquerque,B-,Master's,Retired,"$50,000 ",Average,680,2022-07-20
+5270,jEremY fRye,22,,Albuquerque,B-,,Student,$0 ,Good,N/A,2021-07-25
+2431,cAmerOn MilLER,Unknown,,Albuquerque,O+,,Unemployed,Missing,Poor,400,2023-07-19
+1658,wilLIAM wiLliams dDS,Unknown,,Albuquerque,B-,Associate,Employed,"$65,000 ",,750,2023-05-22
+6642,tRACIe WrigHt,31,,Albuquerque,O-,High School,Self-employed,"$30,000 ",Excellent,600,2020-07-08
+1846,DaVid reyEs,39,,Albuquerque,A-,PhD,Employed,"$100,000 ",Average,790,2022-12-27
+8396,pAiGE KIng,29,,Atlanta,B-,PhD,Retired,$0 ,Average,537,2019-06-21
+3169,James gArCIA,29,,Atlanta,O+,Bachelor's,Unemployed,$0 ,Excellent,None,2021-01-01
+9731,lOri hArvEY,36,,Atlanta,AB-,High School,Unemployed,$0 ,Good,457,2022-09-07
+8614,amy wANG,26,,Atlanta,B+,PhD,Unemployed,$0 ,,N/A,2022-06-09
+2207,joRDAn vARgaS,75,,Atlanta,B+,Bachelor's,Retired,$0 ,,None,2023-11-01
+3229,GORDON kELLY,22,,Atlanta,O-,,Student,$0 ,,N/A,2023-08-06
+4943,nathaN Scott,40,,Atlanta,AB+,Master's,Self-employed,"$135,068 ",Average,794,2022-07-30
+8024,LiSA grEEn,1,,Atlanta,AB-,PhD,Employed,"($50,975)",Good,None,2021-02-04
+6574,amY CoMbS,25,,Atl,A+,Master's,Unemployed,$0 ,Good,814,2021-11-26
+5165,KelLY sANfoRD,25,,Atl,B-,PhD,Self-employed,"($102,073)",Poor,780,2020-07-02
+5875,mrs. jEssIcA BlAck md,46,,Atl,A-,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2021-08-09
+6249,rObERT GoulD,66,,Atl,,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2024-01-18
+6565,cHRISTiNe VArgaS,20,,Atl,O-,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2023-01-17
+8959,BARbara dIaZ,55,,Atl,A-,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2024-03-27
+3636,jOHn washIngtON,35,,Atl,O+,Associate,Unemployed,$0 ,,N/A,2023-01-10
+2297,DEVIn stEWaRt,35,,Atl,B+,PhD,Employed,"$110,000 (Commission)",Good,830,2019-07-14
+5066,JAMeS ROBeRTs,23,,Atl,A+,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2020-05-18
+4420,JaMes YATEs,28,,Atl,B-,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2022-06-15
+1571,PeTEr nIcHOLs,29,,Atl,B+,Bachelor's,Student (Full-time),$0 ,Excellent,None,2020-03-27
+6621,karen pRice,25,,Atlanta,O-,PhD,Self-employed,$0 (Business Closed),Poor,480,2020-02-20
+5234,chRisTOPHEr jONes,29,,Atlanta,O-,,Unemployed,$0 ,Excellent,N/A,2020-06-16
+3199,LaRRY LeoNarD,22,,Atlanta,B-,High School,Employed,"$40,000 ",Good,720,2019-06-06
+3003,MiChELle zHaNg,16,,Atlanta,B-,Bachelor's,Student,$0 ,Excellent,None,2022-01-18
+8004,kriSTEn FlOrES,41,,Atlanta,A+,,Self-employed,"$60,000 (Unstable)",Poor,580,2021-01-11
+9883,MaTThEW bELl,23,,Atlanta,O+,Master's,Unemployed,$0 ,Average,650,2021-02-04
+9291,brADLeY MIraNdA,2,,Atlanta,B-,PhD,Retired,"$75,000 (Pension)",Excellent,810,2022-05-30
+2940,cHRIsToPheR mOORE,29,,Atlanta,O+,Associate,Employed,"$50,000 ",Good,780,2021-12-19
+8244,dan PINEDA,35,,Atlanta,B+,High School,Unemployed,$0 ,Poor,N/A,2021-07-20
+7424,maRIaH SmiTH,58,,Atlanta,AB-,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2022-12-27
+5235,saBRINa cOoK,35,,Atlanta,O-,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2022-09-05
+1789,MelIssA hOFfMAN,22,,Atlanta,B+,,Student (Full-time),$0 ,Good,None,2022-07-27
+5809,Joseph MARtiN,19,,Atlanta,A+,PhD,Employed,"$120,000 ",Excellent,830,2024-05-03
+8217,meLissA SIms,40,,Atlanta,O+,Associate,Unemployed,$0 ,Poor,550,2019-08-28
+9530,SaraH evans,23,,Atlanta,B-,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2024-04-21
+3655,mARIA ANDeRsON,32,,Atlanta,O+,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2024-03-12
+8972,MariA JOHnStON,22,,Atlanta,A+,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2019-09-29
+4451,JaMES COle,17,,Atlanta,AB+,PhD,Unemployed,$0 ,Poor,N/A,2022-08-19
+7969,iSaiaH hOlT,26,,Atlanta,A-,Associate,Employed,"$45,000 ",Average,680,2021-10-18
+4174,joSEPH gonzaLeS,34,,Atlanta,A-,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2023-04-07
+4313,JenNiFEr CAMaCho,29,,Atlanta,AB-,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2019-10-28
+4452,HecTOR jonES,25,,Atlanta,AB+,,Unemployed,$0 ,Poor,480,2020-06-29
+1312,jEsSIcA jOnes Dds,63,,Atlanta,AB+,PhD,Employed,"$130,000 (Commission)",Average,710,2022-09-21
+9886,IsaBeLlA martIn,55,,Atlanta,A-,Associate,Unemployed,$0 ,Good,N/A,2023-08-10
+2941,daNiEL pALMeR,47,,Atlanta,B+,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2022-05-16
+4819,sTEPhanIe BeNsoN,35,,Atlanta,O+,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2020-08-25
+9766,AshleY WiLliamS,31,,Atlanta,B-,Master's,Retired,"$60,000 (Social Security)",Average,740,2023-10-04
+8333,GReGOrY NguYEn,20,,Atlanta,O+,PhD,Unemployed,$0 ,Poor,N/A,2022-04-28
+7342,joE SmItH,35,,Atlanta,O+,Associate,Employed,"$50,000 ",Good,690,2019-05-29
+5537,LIsa wATTS,24,,Atlanta,AB+,High School,Student (Full-time),$0 ,Excellent,None,2024-03-09
+1405,alexAnDER GArcia,35,,Atlanta,B+,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2020-01-07
+5554,ElIzabETh PErKINs,1,,Atlanta,B+,,Unemployed,$0 ,Average,450,2019-11-10
+4500,LAuRA WELLS,59,,Atlanta,O+,PhD,Employed,"$140,000 (Commission)",Good,730,2023-01-24
+3323,robErT mCcORmICk,23,,Atlanta,AB+,Associate,Unemployed,$0 ,Poor,N/A,2019-07-28
+2889,MICHAEL yu,17,,Atlanta,AB-,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2022-07-18
+9266,jacOB GRaHam,17,,Atlanta,A+,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2020-06-07
+7757,aNdrea kenNedy,27,,Atlanta,B-,Master's,Retired,"$65,000 (Social Security)",Good,760,2020-12-07
+5177,StacEY aNderson,19,,Atlanta,AB-,Master's,Student (Full-time),$0 ,Excellent,None,2020-04-10
+7574,jasOn mArsh,18,,Atlanta,A-,PhD,Employed,"$90,000 ",Good,800,2023-07-12
+8713,tiFfAnY FErguSON,56,,Atlanta,A+,Associate,Unemployed,$0 ,Poor,N/A,2022-09-10
+2878,mark hErnaNdEZ,40,,Atlanta,AB-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2021-04-15
+6540,KEITH HenRy,22,,Atlanta,O-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2020-08-20
+8399,mIChelLE WRIghT,43,,Atlanta,A+,,Retired,"$40,000 (Pension)",Good,710,2020-08-14
+7837,TRoY DaVIS,24,,Atlanta,A+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-07-17
+3505,MiSty burton,46,,Atlanta,B+,High School,Employed,"$55,000 ",Excellent,780,2023-01-27
+1901,RObERt rObINsOn,68,,Atlanta,O-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2020-09-04
+3977,CHrISTiNA caldeROn,24,,Atlanta,AB+,Master's,Self-employed,"$140,000 ",Excellent,850,2020-02-08
+3852,JOhN GRahAm,22,,Atlanta,O+,,Unemployed,$0 ,Poor,420,2019-07-01
+2836,mICHAEl PARkER,33,,Atlanta,O+,PhD,Employed,"$100,000 ",Average,750,2024-01-01
+1368,WIlliAm EVANs,47,,Atlanta,AB+,Associate,Unemployed,$0 ,Good,N/A,2021-03-10
+9848,vAlEriE hodgES,27,,Atlanta,AB+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2019-09-19
+9942,brENda BecK,28,,Atlanta,B+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2023-02-24
+7996,CHrISTIne DAvIs,22,,Atlanta,O+,Master's,Retired,"$50,000 (Social Security)",Average,700,2022-03-30
+2775,keVIN dANiEl,26,,Atlanta,A+,PhD,Unemployed,$0 ,Poor,N/A,2019-08-30
+6897,BRIttney WagNER,36,,Atlanta,O+,Associate,Employed,"$40,000 ",Good,650,2019-12-21
+7112,criStIaN bUChANAn,9,,Atlanta,A-,High School,Student (Full-time),$0 ,Excellent,None,2019-08-31
+3052,MiCHAEl bRady,29,,Atlanta,O+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2022-03-30
+3239,jOrdan LEON,41,,Atlanta,O+,,Unemployed,$0 ,Average,400,2023-08-11
+9169,kAteLyn cunNINGHam,54,,Atlanta,B+,PhD,Employed,"$110,000 (Commission)",Good,770,2021-10-29
+9929,KRyStal mENDoZA,48,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2020-09-18
+5715,aLEx RodriGUEz,21,,Atlanta,AB+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2021-02-24
+4573,GeoFfrEy barkER,20,,Atlanta,AB-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-07-07
+4107,ALEc miTCheLl,43,,Atlanta,O+,Master's,Retired,"$55,000 (Social Security)",Good,730,2023-06-26
+8135,JasOn joRDaN,23,,Atlanta,O-,PhD,Unemployed,$0 ,Excellent (?!),N/A,2021-11-12
+2270,philiP ReYES,23,,Atlanta,O+,Associate,Unemployed,$0 ,Poor,N/A,2021-10-23
+2594,AarOn BradsHaw,21,,Atlanta,O+,Master's,Self-employed,"$120,000 ",Good,810,2019-11-30
+9042,ERicA fOrd,51,,Atlanta,AB+,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2023-03-19
+3669,dr. KAtIe baRReTt DVM,34,,Atlanta,O-,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2022-02-02
+1425,Jacob youNG,19,,Atlanta,AB+,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2023-09-25
+4721,amY RAMos,23,,Atlanta,B+,Master's,Student (Full-time),$0 ,Excellent,None,2021-10-28
+7636,PaTricK moRAlES,31,,Atlanta,AB-,PhD,Employed,"$90,000 ",Good,800,2020-06-16
+1666,sOpHIA cONwAY,49,,Atlanta,O+,Associate,Unemployed,$0 ,Poor,N/A,2021-10-07
+9309,jamES mOORE,58,,Atlanta,A-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2021-04-29
+1313,ChRisTOPHeR cOChRan,20,,Atlanta,AB-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2019-05-12
+4730,RObeRT Carter,29,,Atlanta,B-,,Retired,"$40,000 (Pension)",Good,710,2021-09-12
+7949,moRgAn NGUYEn,27,,Atlanta,B+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-01-25
+1815,natHAn MONToYA,27,,Atlanta,O-,High School,Employed,"$55,000 ",Excellent,780,2020-05-22
+6573,jOE Berry PhD,18,,Atlanta,B-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2022-06-20
+9454,daNIeL oRtiz,47,,Atlanta,AB-,Master's,Self-employed,"$140,000 ",Excellent,850,2020-11-16
+3253,mATthEw cLaRk,44,,Atlanta,B-,,Unemployed,$0 ,Poor,420,2020-10-09
+5489,JAcQuELINE hArDY,47,,Atlanta,O+,PhD,Employed,"$100,000 ",Average,750,2023-12-12
+9739,eMiLY JoSEPh,52,,Atlanta,AB-,Associate,Unemployed,$0 ,Good,N/A,2022-06-14
+9757,sarAH HiCKs,35,,Atlanta,A-,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2023-02-23
+7749,bRiANa rOsS,33,,Atlanta,AB+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2024-04-25
+4261,maRY mcculLOUgH,38,,Atlanta,A+,Master's,Retired,"$50,000 (Social Security)",Average,700,2022-06-08
+1943,bRIAn OSborNe,51,,Atlanta,B-,PhD,Unemployed,$0 ,Poor,N/A,2023-12-07
+4932,suSAn WALTerS,20,,Atlanta,AB-,Associate,Employed,"$40,000 ",Good,650,2020-11-03
+7782,CATHerine HaRVEY,39,,Atlanta,AB+,High School,Student (Full-time),$0 ,Excellent,None,2023-10-03
+2096,cORY PIERCe,33,,Atlanta,B-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2022-06-11
+2840,jeSus jORdan,49,,Atlanta,O-,,Unemployed,$0 ,Average,400,2021-07-03
+8100,ANn dUNCAN,58,,Atlanta,A-,PhD,Employed,"$110,000 (Commission)",Good,770,2024-03-19
+3532,Sarah pOrTEr,40,,Atlanta,AB-,Associate,Unemployed,$0 ,Poor,N/A,2024-01-11
+8331,jACquEliNE DeAN,18,,Atlanta,A+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2021-06-26
+3738,AnNE lam,18,,Atlanta,O+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2024-01-19
+5680,jEnnifeR GomEz,42,,Atlanta,O-,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-12-15
+1567,daVId CuRTIs,50,,Atlanta,B+,Master's,Student (Full-time),$0 ,Excellent,None,2021-05-14
+7438,joSHUa JOHnsON,15,,Atlanta,B+,PhD,Employed,"$150,000 (Commission)",Good,820,2021-07-10
+7840,jEReMy bOwen,18,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,N/A,2020-07-25
+2371,denNIs cLarkE,44,,Atlanta,AB+,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2019-09-17
+3132,jeNNiFER spEnCe,28,,Atlanta,A+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2019-05-14
+4878,biLlY fITZGERALd,78,,Atlanta,B+,,Unemployed,$0 ,Poor,380 (Typo),2020-05-31
+7860,krisTEN JamES,20,,Atlanta,AB+,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2020-03-27
+5502,cAiTLIN bEndEr,17,,Atlanta,O-,High School,Employed,"$60,000 ",Excellent,800,2019-12-23
+2211,bRENda fULleR,30,,Atlanta,A-,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2024-02-08
+2093,CASSaNdrA rIcE,47,,Atlanta,A-,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2023-09-23
+6331,SeRgIO saNcheZ,35,,Atlanta,AB+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2020-05-14
+8357,keviN stein,25,,Atlanta,B+,High School (GED),Unemployed,$0 ,Poor,N/A,2020-02-11
+5897,MAUrEEN grANT Md,40,,Atlanta,AB+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2021-09-13
+8563,SaMantHA gUtIErrez,38,,Atlanta,B+,,Student (Internship),"$20,000 (Stipend)",Good,None,2020-10-24
+7203,GEORgE woodwARd,24,,Atlanta,B+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2020-12-29
+2797,sHaNe TaTe,17,,Atlanta,O+,Master's,Unemployed,$0 ,Poor,N/A,2024-03-19
+8065,KErRY HaWkiNs,17,,Atlanta,O-,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2021-12-13
+3214,mARissA mORa,18,,Atlanta,O-,High School,Employed,"$60,000 ",Excellent,810,2022-05-17
+5046,rICKy mEYeR,31,,Atlanta,A-,Bachelor's,Student (Full-time),$0 ,Good,None,2022-12-01
+9693,EDWArd JOneS jR.,57,,Atlanta,O-,,Self-employed,"$120,000 (Seasonal)",Average,660,2020-03-16
+4101,HeatHER mELeNdez,26,,Atlanta,AB+,Associate,Unemployed,$0 ,Poor,N/A,2020-10-20
+4443,jesSIcA mAciaS,46,,Atlanta,AB-,PhD,Employed,"$130,000 (Commission)",Good,740,2024-01-05
+7445,JaMIe leACh,23,,Atlanta,B-,Master's,Student (Full-time),$0 ,Excellent,None,2023-08-17
+3178,matThEW sImMoNs,45,,Atlanta,B-,PhD,Employed,"$90,000 ",Good,800,2023-03-31
+7166,SHeILA bAXtEr,25,,Atlanta,AB-,Associate,Unemployed,$0 ,Poor,N/A,2022-11-21
+4432,DAVE PaRrISH,Unknown,,Atlanta,B+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2020-08-24
+5530,brYaN SteWart,33,,Atlanta,O-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-02-12
+8308,JaMes beLL,26,,Atlanta,A-,,Retired,"$40,000 (Pension)",Good,710,2023-08-15
+4320,Joshua LOve,17,,Atlanta,O-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-01-13
+9692,rObErT CLArk,4,,Atlanta,B-,High School,Employed,"$55,000 ",Excellent,780,2020-04-28
+8609,marisa GOlDEN,26,,Atlanta,AB+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2022-10-21
+7505,NanCy HaMIltOn,22,,Atlanta,O+,Master's,Self-employed,"$140,000 ",Excellent,850,2022-12-15
+2028,BRyaN bOwERS,101,,Atlanta,O+,,Unemployed,$0 ,Poor,420,2020-09-01
+3524,NIColE mArTIN,36,,Atlanta,AB-,PhD,Employed,"$100,000 ",Average,750,2019-11-18
+9839,WillIam HaRmON,30,,Atlanta,O+,Associate,Unemployed,$0 ,Good,N/A,2022-08-22
+7013,TOM BRoWN,24,,Atlanta,A+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-08-01
+1154,CynthIa NeLSoN,43,,Atlanta,A+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2024-01-18
+6027,TODD gROSS,44,,Atlanta,B-,Master's,Retired,"$50,000 (Social Security)",Average,700,2020-03-17
+5599,sTEphAnie cHung,21,,Atlanta,AB+,PhD,Unemployed,$0 ,Poor,N/A,2022-08-15
+4126,KayLA PeREZ,62,,Atlanta,AB+,Associate,Employed,"$40,000 ",Good,650,2023-05-15
+8584,paul marTInez,51,,Atlanta,A+,High School,Student (Full-time),$0 ,Excellent,None,2019-06-27
+7114,joshuA neLson,24,,Atlanta,B+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2023-10-29
+9767,JAkE COpeLand,29,,Atlanta,AB-,,Unemployed,$0 ,Average,400,2024-01-09
+2752,mAria GArdNEr,24,,Atlanta,B+,PhD,Employed,"$110,000 (Commission)",Good,770,2020-08-23
+5794,jAnEt ROBERTs DDS,51,,Atlanta,AB+,Associate,Unemployed,$0 ,Poor,N/A,2020-01-07
+5123,pETeR ramSey,35,,Atlanta,O-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2019-10-25
+7286,AsHley farmER,17,,Atlanta,AB+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-09-20
+8188,kaTHerInE haLE,25,,Atlanta,B+,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-01-12
+3094,GAry BOWEN,37,,Atlanta,B+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2019-06-04
+6518,LaURA rYan,36,,Atlanta,AB-,High School (GED),Unemployed,$0 ,Poor,N/A,2021-12-14
+2318,TiMoThY lOpeZ,25,,Atlanta,A-,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2023-05-30
+1679,ANThoNy gUZmAn,42,,Atlanta,AB-,,Student (Internship),"$20,000 (Stipend)",Good,None,2019-08-26
+7068,MIChael ShaRP,44,,Atlanta,O-,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2019-11-16
+9183,daVId CarrOlL,17,,Atlanta,A-,Master's,Unemployed,$0 ,Poor,N/A,2022-04-23
+1904,Connor BARTOn,20,,Atlanta,B+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2020-02-20
+7891,AnGElA SCOtT,56,,Atlanta,B+,High School,Employed,"$60,000 ",Excellent,810,2022-10-19
+9358,DAvID ORTiz,24,,Atlanta,O-,Bachelor's,Student (Full-time),$0 ,Good,None,2022-02-05
+3688,paTRicK pierce,25,,Atlanta,B+,,Self-employed,"$120,000 (Seasonal)",Average,660,2019-08-01
+1062,KeiTH JohnSoN,31,,Atlanta,O-,Associate,Unemployed,$0 ,Poor,N/A,2021-06-19
+4159,antonio smITh,29,,Atlanta,O-,PhD,Employed,"$130,000 (Commission)",Good,740,2020-06-28
+5539,jOHN TaYlOR,42,,Atlanta,A-,Bachelor,Employed,"$80,000 ",Good,720,2019-10-06
+3272,barbAra stEwarT,25,,Atlanta,A-,Associate,Unemployed,$0 ,Excellent,N/A,2022-07-17
+5926,lArRy TaNnEr,43,,Atlanta,O+,PhD,Self-employed,"$120,000 ",Poor,550,2021-05-22
+3076,MAllORy diAz,16,,Atlanta,O+,High School,Employed,"$45,000 ",Excellent,800,2022-08-16
+5439,jOhN WILLiams,21,,Atlanta,A+,Master's,Retired,"$50,000 ",Average,680,2021-03-31
+3678,peter miller,33,,Atlanta,O-,,Student,$0 ,Good,N/A,2021-09-06
+2090,rYaN bUtLeR,29,,Atlanta,AB-,,Unemployed,Missing,Poor,400,2023-08-26
+2390,SaMANTHa lOwERY,32,,Atlanta,A+,Associate,Employed,"$65,000 ",,750,2019-11-27
+8243,TiFFAny LEe,48,,Atlanta,A+,High School,Self-employed,"$30,000 ",Excellent,600,2023-03-07
+2760,SamaNthA WiLlIs,1,,Atlanta,A-,PhD,Employed,"$100,000 ",Average,790,2022-10-03
+7572,pAmela BroWn,35,,Atlanta,O-,PhD,Retired,$0 ,Average,537,2023-01-10
+4277,cARLA walkER,17,,Atlanta,O-,Bachelor's,Unemployed,$0 ,Excellent,None,2020-04-12
+3462,MaRy GOnzaLeS,29,,Atlanta,B-,High School,Unemployed,$0 ,Good,457,2020-11-20
+4775,SHEllEY FlEmInG,24,,Atlanta,AB-,PhD,Unemployed,$0 ,,N/A,2024-04-26
+4145,MARK bLakE,22,,Atlanta,A+,Bachelor's,Retired,$0 ,,None,2023-06-29
+6098,SCoTT KIng,29,,Atlanta,O+,,Student,$0 ,,N/A,2020-01-11
+8360,JesSicA dAvis,44,,Atlanta,O-,Master's,Self-employed,"$135,068 ",Average,794,2022-06-05
+9659,anthOnY odom,28,,Atlanta,O+,PhD,Employed,"($50,975)",Good,None,2024-01-28
+5367,charleS bRoWN,20,,Atlanta,B-,Master's,Unemployed,$0 ,Good,814,2021-11-06
+6955,raChel DaVIS,26,,Atlanta,B-,PhD,Self-employed,"($102,073)",Poor,780,2021-07-21
+7681,SAndRa mccALl,48,,Atlanta,A-,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2019-11-23
+5814,NiCole FraNCIS,27,,Atlanta,AB-,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2019-05-30
+1120,STEVEN SmitH,21,,Atlanta,AB-,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2024-03-23
+4098,KAREn johnsoN,33,,Atlanta,O+,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2019-06-23
+9137,anna ROgERs,23,,Atlanta,O-,Associate,Unemployed,$0 ,,N/A,2022-01-30
+8886,pRiSCiLlA dEckEr,50,,Atlanta,B-,PhD,Employed,"$110,000 (Commission)",Good,830,2022-11-12
+6670,tREVor WRiGHt,59,,Atlanta,O+,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2020-12-22
+6412,WiLlIAm tuCKEr,44,,Atlanta,A-,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2022-05-22
+1140,JEsSIca KElLer,25,,Atlanta,B+,Bachelor's,Student (Full-time),$0 ,Excellent,None,2021-03-27
+2182,WILliAM hEnRY,24,,Atlanta,AB-,PhD,Self-employed,$0 (Business Closed),Poor,480,2022-06-22
+7953,RobiN Clarke,18,,Atlanta,O+,,Unemployed,$0 ,Excellent,N/A,2022-07-15
+3571,jessIca gARZa,48,,Atlanta,A+,High School,Employed,"$40,000 ",Good,720,2022-06-06
+8983,JAmIe salaZAR,21,,Atlanta,O-,Bachelor's,Student,$0 ,Excellent,None,2020-12-29
+2708,stevEN VAugHaN,46,,Atlanta,A+,,Self-employed,"$60,000 (Unstable)",Poor,580,2020-05-23
+2707,MIChAeL contreraS,36,,Atlanta,A-,Master's,Unemployed,$0 ,Average,650,2022-07-25
+6377,AllEn roBeRTs,49,,Atlanta,A-,PhD,Retired,"$75,000 (Pension)",Excellent,810,2021-04-01
+9861,aMy POwEll,38,,Atlanta,B+,Associate,Employed,"$50,000 ",Good,780,2020-07-20
+1718,KeNNeth sMitH,32,,Atlanta,A+,High School,Unemployed,$0 ,Poor,N/A,2020-02-28
+3149,maTThEW WEsT,38,,Atlanta,AB+,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2023-08-30
+9339,ERIK MOntoyA,30,,Atlanta,AB-,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2020-07-27
+2578,aUSTin lEwis,27,,Atlanta,AB-,,Student (Full-time),$0 ,Good,None,2021-03-28
+3226,KennEtH ThOmPSon,15,,Atlanta,A-,PhD,Employed,"$120,000 ",Excellent,830,2022-05-08
+6203,AMANDa DURhAm,17,,Atlanta,O+,Associate,Unemployed,$0 ,Poor,550,2021-06-16
+1852,stEphen HUdSON,34,,Atlanta,AB+,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2023-10-31
+6626,CASsanDRA VeLaZquEZ,46,,Atlanta,B+,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2022-04-23
+6196,suSAN peNA,44,,Atlanta,B+,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2021-12-09
+5748,anTHoNY PerKinS,32,,Atlanta,O-,PhD,Unemployed,$0 ,Poor,N/A,2024-01-10
+5878,KATRIna LOPEz,29,,Atlanta,O+,Associate,Employed,"$45,000 ",Average,680,2019-11-17
+8282,bRiAn FoSTER,47,,Atlanta,AB+,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2022-01-05
+8941,JaSon ThOMPson,29,,Atlanta,B+,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2024-01-15
+8556,david AYaLa,19,,Atlanta,O+,,Unemployed,$0 ,Poor,480,2022-11-17
+2280,jaReD YoDER,19,,Atlanta,O+,PhD,Employed,"$130,000 (Commission)",Average,710,2021-08-02
+3773,gRegoRY cANnON,38,,Atlanta,A+,Associate,Unemployed,$0 ,Good,N/A,2020-04-20
+9541,LISa aNdERSON,47,,Atlanta,O-,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2023-06-28
+2443,ELIzabEtH ShIelDs,2,,Atlanta,O+,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2022-04-06
+2457,PatriCiA kIM,24,,Atlanta,AB+,Master's,Retired,"$60,000 (Social Security)",Average,740,2021-03-31
+5972,JessiCA sOto,55,,Atlanta,AB+,PhD,Unemployed,$0 ,Poor,N/A,2020-03-07
+4706,JEnNY ReYnOLDS,34,,Atlanta,B-,Associate,Employed,"$50,000 ",Good,690,2020-06-03
+5964,SHANnon baRRett,24,,Atlanta,B-,High School,Student (Full-time),$0 ,Excellent,None,2021-08-31
+7744,tERrI PERry,27,,Atlanta,AB+,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2022-09-22
+4928,Joseph MaddEN,19,,Atlanta,B+,,Unemployed,$0 ,Average,450,2022-07-02
+5050,RebECCa hOGAN,32,,Atlanta,O+,PhD,Employed,"$140,000 (Commission)",Good,730,2019-06-18
+1919,kELly WAlKER,38,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,N/A,2019-07-19
+5729,jUlIa muEllER,Unknown,,Atlanta,A-,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2022-01-06
+5602,KAyLa mOORe,29,,Atlanta,AB-,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2022-02-08
+1563,KAITLyn SmItH,60,,Atlanta,AB-,Master's,Retired,"$65,000 (Social Security)",Good,760,2022-12-09
+8720,DAnIEL KemP,49,,Atlanta,O+,Master's,Student (Full-time),$0 ,Excellent,None,2020-06-14
+6786,laurA mYeRs,49,,Atlanta,B+,PhD,Employed,"$90,000 ",Good,800,2021-03-12
+5074,Carol ReEd,57,,Atlanta,AB+,Associate,Unemployed,$0 ,Poor,N/A,2022-12-27
+7530,JesSIcA caRtER,31,,Atlanta,A-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2019-12-08
+7388,vANeSsa ScHaEFeR,44,,Atlanta,A-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2023-06-19
+3259,MIgUeL GOmeZ,49,,Atlanta,B+,,Retired,"$40,000 (Pension)",Good,710,2019-05-10
+9274,linDa cARdeNas,1,,Atlanta,A-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-06-11
+5486,annEtTE JAMES,58,,Atlanta,B-,High School,Employed,"$55,000 ",Excellent,780,2019-10-27
+2237,sUSaN HuRLEY,23,,Atlanta,B+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2022-08-27
+8418,carOLyN Wade,24,,Atlanta,A+,Master's,Self-employed,"$140,000 ",Excellent,850,2019-08-08
+8130,aNgeLA DelEon,28,,Atlanta,A-,,Unemployed,$0 ,Poor,420,2023-02-12
+2177,cAROLYN COoPer,16,,Atlanta,A+,PhD,Employed,"$100,000 ",Average,750,2021-05-04
+3650,reBEcca hARRIs,34,,Atlanta,O+,Associate,Unemployed,$0 ,Good,N/A,2021-07-11
+2202,garY cUrtIS,13,,Atlanta,A+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2021-02-10
+9691,ryaN LIU,57,,Atlanta,AB+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2021-10-16
+1442,DenNiS MOrROw,28,,Atlanta,B+,Master's,Retired,"$50,000 (Social Security)",Average,700,2019-10-03
+4965,JEnNiFEr COOpER,20,,Atlanta,A+,PhD,Unemployed,$0 ,Poor,N/A,2020-04-26
+5195,JaCOB loPez,24,,Atlanta,B-,Associate,Employed,"$40,000 ",Good,650,2019-09-13
+2341,carOL McClain,24,,Atlanta,B-,High School,Student (Full-time),$0 ,Excellent,None,2022-01-20
+9950,mIChaeL RiChArdsoN,32,,Atlanta,B+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2023-10-14
+9894,MARK NGuYEn,20,,Atlanta,A+,,Unemployed,$0 ,Average,400,2019-11-23
+3088,EriC COOk,31,,Atlanta,B-,PhD,Employed,"$110,000 (Commission)",Good,770,2023-12-05
+2546,kRISTeN STEPheNS,26,,Atlanta,B+,Associate,Unemployed,$0 ,Poor,N/A,2021-02-01
+8805,DaNa WAltoN,43,,Atlanta,A-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2022-06-30
+2469,Scott arNOLd,26,,Atlanta,B-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-11-09
+9776,MEGan wHEEleR,25,,Atlanta,B+,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-07-30
+9416,AaRON coX,21,,Atlanta,O+,PhD,Unemployed,$0 ,Excellent (?!),N/A,2022-04-10
+3001,CassanDRA MArTineZ,29,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2020-01-02
+9549,SHawn bROwn,34,,Atlanta,B-,Master's,Self-employed,"$120,000 ",Good,810,2023-11-10
+1858,SAnDRa WillIamSon,30,,Atlanta,AB-,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2021-02-14
+6146,jenniFeR sTephEnS,26,,Atlanta,B-,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2022-07-16
+2436,stePHANIe ROdRigueZ,55,,Atlanta,O+,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2023-05-15
+9671,CaROlIne mCinTyRe,36,,Atlanta,AB+,Master's,Student (Full-time),$0 ,Excellent,None,2020-04-30
+2167,Mr. cAMeROn RoBINsoN,32,,Atlanta,AB+,PhD,Employed,"$90,000 ",Good,800,2021-01-12
+5450,taMmY pINEdA,40,,Atlanta,O-,Associate,Unemployed,$0 ,Poor,N/A,2019-05-23
+1724,nATaLiE aNdeRson,18,,Atlanta,A+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2023-04-23
+4486,jAsminE RodrIgueZ,39,,Atlanta,A-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-12-07
+9331,deBRA MCkee,35,,Atlanta,A-,,Retired,"$40,000 (Pension)",Good,710,2020-10-25
+7582,sANDRa GReENe,15,,Atlanta,B-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-04-08
+7373,cRystAl MorRIS,31,,Atlanta,B-,High School,Employed,"$55,000 ",Excellent,780,2020-09-09
+9536,jaSoN pArKER,38,,Atlanta,AB+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2019-12-06
+8489,ROy JONEs,46,,Atlanta,AB-,Master's,Self-employed,"$140,000 ",Excellent,850,2023-02-16
+9764,RIcHaRd aNDeRsoN,27,,Atlanta,O-,,Unemployed,$0 ,Poor,420,2023-09-12
+7298,JenNIfEr FoSTer,21,,Atlanta,A+,PhD,Employed,"$100,000 ",Average,750,2019-11-21
+1178,dEBBIE wILSOn,48,,Atlanta,B-,Associate,Unemployed,$0 ,Good,N/A,2019-07-14
+8104,tRavIS flOreS,35,,Atlanta,AB+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2019-10-03
+7929,emIly yOUNg,25,,Atlanta,O-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2019-07-04
+5655,sANDy halL,20,,Atlanta,AB+,Master's,Retired,"$50,000 (Social Security)",Average,700,2019-05-26
+6784,madIsOn WRigHT,24,,Atlanta,A+,PhD,Unemployed,$0 ,Poor,N/A,2021-12-12
+6153,AMy manN,77,,Atlanta,AB-,Associate,Employed,"$40,000 ",Good,650,2021-05-22
+5740,Jason stEELe,39,,Atlanta,AB-,High School,Student (Full-time),$0 ,Excellent,None,2020-09-03
+6730,PAmEla mIDdlEtoN,37,,Atlanta,B-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2022-03-30
+9862,liSA JAcKsOn,44,,Atlanta,B+,,Unemployed,$0 ,Average,400,2019-12-20
+2690,SaMantHA PATEl,29,,Atlanta,A+,PhD,Employed,"$110,000 (Commission)",Good,770,2022-01-21
+5703,HeRberT RodRIGUEZ,43,,Atlanta,A+,Associate,Unemployed,$0 ,Poor,N/A,2020-05-19
+1465,OliviA pOWELl,66,,Atlanta,A+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2024-02-20
+4315,SAmaNThA PERkins,21,,Atlanta,AB-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-08-31
+7394,mIchaeL POtTs,38,,Atlanta,A+,Master's,Retired,"$55,000 (Social Security)",Good,730,2023-01-19
+7982,KeRRy HErnANDEz,19,,Atlanta,O-,Master's,Student (Full-time),$0 ,Excellent,None,2023-11-20
+5434,jOSHUa reyEs,60,,Atlanta,AB+,PhD,Employed,"$150,000 (Commission)",Good,820,2021-07-28
+7807,JeNniFER oRteGA,29,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2023-04-04
+5088,BrIttANY BRaun,19,,Atlanta,B-,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2020-08-11
+3860,daniel cHEn,68,,Atlanta,B+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2020-01-28
+5602,ErICA hart,25,,Atlanta,AB+,,Unemployed,$0 ,Poor,380 (Typo),2020-01-07
+7653,alIcIa scOTt,25,,Atlanta,O-,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2020-04-20
+9923,amandA aGUIrRE,21,,Atlanta,AB+,High School,Employed,"$60,000 ",Excellent,800,2020-03-18
+9352,mark hIcKs,50,,Atlanta,AB-,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2020-06-18
+4325,TIMOtHy daVIS,51,,Atlanta,O-,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2023-07-15
+1452,LONNIE DomInguEZ,30,,Atlanta,A-,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2023-10-02
+5655,KIMbERLY hALE,24,,Atlanta,B-,High School (GED),Unemployed,$0 ,Poor,N/A,2021-01-13
+6539,Dana WilLIAMsoN,30,,Atlanta,A+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2022-05-16
+5692,mr. GEORGe BROwN jr.,46,,Atlanta,AB-,,Student (Internship),"$20,000 (Stipend)",Good,None,2019-10-22
+9406,ALLEn cAmACho,30,,Atlanta,A+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2019-08-09
+1858,NATHan woOdS,40,,Atlanta,O-,Master's,Unemployed,$0 ,Poor,N/A,2023-12-30
+6099,caTheriNe sMitH,39,,Atlanta,AB+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2022-07-11
+2818,JerRy leE,22,,Atlanta,AB+,High School,Employed,"$60,000 ",Excellent,810,2020-09-19
+3493,AlexaNder COLEMan,50,,Atlanta,B+,Bachelor's,Student (Full-time),$0 ,Good,None,2019-09-06
+7278,dAvid JENSEN,25,,Atlanta,O-,,Self-employed,"$120,000 (Seasonal)",Average,660,2019-11-22
+8012,DeBORAH EVaNs,33,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,N/A,2020-07-22
+3266,ALEXaNdRIa coLon,19,,Atlanta,B+,PhD,Employed,"$130,000 (Commission)",Good,740,2022-03-01
+6378,sAMUEL HANSOn,28,,Atlanta,B-,Master's,Student (Full-time),$0 ,Excellent,None,2023-03-01
+7691,BryaN phILliPS,27,,Atlanta,B+,PhD,Employed,"$90,000 ",Good,800,2021-04-22
+7379,naThaN wileY,23,,Atlanta,A+,Associate,Unemployed,$0 ,Poor,N/A,2020-09-23
+9262,ALiShA muRpHy,35,,Atlanta,A+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2023-01-08
+9459,AMANdA lUcEro,32,,Atlanta,AB-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-08-17
+1192,SHeIla SelLErs,33,,Atlanta,AB+,,Retired,"$40,000 (Pension)",Good,710,2021-06-15
+6165,sUSaN Chan,24,,Atlanta,AB+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2024-03-01
+3708,AnGEL MiTChelL,26,,Atlanta,AB+,High School,Employed,"$55,000 ",Excellent,780,2023-12-11
+3834,DARleNE cohEN,45,,Atlanta,B+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2022-05-04
+7960,KrIStY ONeILl,26,,Atlanta,A-,Master's,Self-employed,"$140,000 ",Excellent,850,2021-12-01
+9810,sHErrI gArCia,46,,Atlanta,B+,,Unemployed,$0 ,Poor,420,2021-09-21
+4700,MIChaEL wEber,44,,Atlanta,B-,PhD,Employed,"$100,000 ",Average,750,2020-03-20
+4564,BETh sChwaRTZ,32,,Atlanta,AB-,Associate,Unemployed,$0 ,Good,N/A,2024-03-29
+9933,cYnTHIA cLARKE,26,,Atlanta,AB-,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2024-03-12
+8360,MArK GiLES,25,,Atlanta,A-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2022-03-21
+6591,TAmara beltRaN,29,,Atlanta,A+,Master's,Retired,"$50,000 (Social Security)",Average,700,2020-07-23
+5772,JOsEpH guTierReZ,32,,Atlanta,A+,PhD,Unemployed,$0 ,Poor,N/A,2024-03-10
+9289,JAmiE jimeNEZ,58,,Atlanta,A-,Associate,Employed,"$40,000 ",Good,650,2020-03-15
+8253,chARles MUrPHY,23,,Atlanta,A+,High School,Student (Full-time),$0 ,Excellent,None,2021-05-10
+4533,CArLOS lOPEz,19,,Atlanta,O+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2020-12-29
+7361,joHnnY IrWIN,19,,Atlanta,B-,,Unemployed,$0 ,Average,400,2020-03-23
+1311,SCOTT wERNeR,28,,Atlanta,O-,PhD,Employed,"$110,000 (Commission)",Good,770,2023-07-13
+2433,TeRRi stEWart,16,,Atlanta,AB-,Associate,Unemployed,$0 ,Poor,N/A,2023-07-20
+7318,dAVId DaviS,47,,Atlanta,B+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2020-02-14
+7695,StEpheN HaRRIS,33,,Atlanta,B-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-05-28
+3248,briDgeT Adams,36,,Atlanta,B-,Master's,Retired,"$55,000 (Social Security)",Good,730,2022-06-12
+6902,MIchAEL MortON,22,,Atlanta,A+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2023-12-12
+7401,MIchElLE LIU,27,,Atlanta,B-,High School (GED),Unemployed,$0 ,Poor,N/A,2023-11-06
+5536,ReGina bRIght,22,,Atlanta,AB-,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2023-05-16
+3818,SaMuel decKEr,33,,Atlanta,O-,,Student (Internship),"$20,000 (Stipend)",Good,None,2022-10-12
+8382,pAuL wRiGHt,30,,Atlanta,AB+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2023-12-30
+2770,brIAN OlSOn,32,,Atlanta,B+,Master's,Unemployed,$0 ,Poor,N/A,2024-02-26
+1952,TRaCEy harRiSOn,62,,Atlanta,B+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2021-11-07
+3994,ERiKa joHNsoN,17,,Atlanta,B+,High School,Employed,"$60,000 ",Excellent,810,2020-02-03
+2842,PEteR CuNnInghAm,57,,Atlanta,B+,Bachelor's,Student (Full-time),$0 ,Good,None,2019-07-05
+9413,sIErrA whITe,26,,Atlanta,O-,,Self-employed,"$120,000 (Seasonal)",Average,660,2021-11-13
+6230,eDdIe rUSsO dVm,33,,Atlanta,B+,Associate,Unemployed,$0 ,Poor,N/A,2019-08-15
+5794,yvEtte tuRnER,32,,Atlanta,O+,PhD,Employed,"$130,000 (Commission)",Good,740,2023-07-19
+7134,jameS cHArLes,32,,Atlanta,A-,Bachelor,Employed,"$80,000 ",Good,720,2023-04-06
+1068,ALexis ALlEn,46,,Atlanta,AB+,Associate,Unemployed,$0 ,Excellent,N/A,2019-10-08
+6592,stephAnIe martIN,38,,Atlanta,A+,PhD,Self-employed,"$120,000 ",Poor,550,2020-08-10
+7341,SHelBy AndeRson,47,,Atlanta,A+,High School,Employed,"$45,000 ",Excellent,800,2019-09-26
+4410,aBIGail FarmEr,64,,Atlanta,O+,Master's,Retired,"$50,000 ",Average,680,2021-02-11
+1074,chrIStINa MiLLER,3,,Atlanta,O+,,Student,$0 ,Good,N/A,2019-09-05
+7082,MAtTHew wYAtt,39,,Atlanta,B+,,Unemployed,Missing,Poor,400,2021-03-01
+5541,dAvID MOnTOYa,38,,Atlanta,A-,Associate,Employed,"$65,000 ",,750,2024-04-19
+1498,eRic ParK,50,,Atlanta,AB+,High School,Self-employed,"$30,000 ",Excellent,600,2023-04-27
+9257,lOrI trEVinO,28,,Atlanta,O+,PhD,Employed,"$100,000 ",Average,790,2022-07-06
+5480,dWaYNe CASTIllO,39,,Atlanta,O-,PhD,Retired,$0 ,Average,537,2020-10-31
+4757,kRIStInE mcCALl,26,,Atlanta,B-,Bachelor's,Unemployed,$0 ,Excellent,None,2023-09-08
+9987,jOsepH SelLeRs,21,,Atlanta,O-,High School,Unemployed,$0 ,Good,457,2022-11-20
+1212,dR. DONalD AndersON,32,,Atlanta,O-,PhD,Unemployed,$0 ,,N/A,2020-07-04
+9000,VicToRiA WiLLiAMS,92,,Atlanta,B+,Bachelor's,Retired,$0 ,,None,2023-06-24
+6047,anna jONEs,69,,Atlanta,O-,,Student,$0 ,,N/A,2020-10-06
+4178,mR. RobeRT DaVIS,19,,Atlanta,B+,Master's,Self-employed,"$135,068 ",Average,794,2023-03-16
+3008,jeFfrEY HALl,27,,Atlanta,O-,PhD,Employed,"($50,975)",Good,None,2019-09-16
+4471,tERrY GRAvEs,25,,Atlanta,O-,Master's,Unemployed,$0 ,Good,814,2021-04-10
+1822,JErome MorAles,48,,Atlanta,B-,PhD,Self-employed,"($102,073)",Poor,780,2019-07-21
+4298,kEith ROdRiGuez,21,,Atlanta,A+,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2021-12-14
+7493,tAmARA davENpOrT,31,,Atlanta,O-,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2023-09-19
+2336,JOnatHAN SiMON,52,,Atlanta,A-,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2024-01-27
+1161,HolLY ARMsTrOnG,33,,Atlanta,O-,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2020-04-03
+8053,rONaLd bAnKs,38,,Atlanta,AB+,Associate,Unemployed,$0 ,,N/A,2020-04-16
+6893,rYAn BRadforD DDS,57,,Atlanta,O+,PhD,Employed,"$110,000 (Commission)",Good,830,2019-08-23
+5374,jaNICE hAlL,23,,Atlanta,AB-,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2021-07-01
+7888,JaCOB mcDOnaLD,55,,Atlanta,B+,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2022-08-21
+2320,GlENN maSSeY,26,,Atlanta,A-,Bachelor's,Student (Full-time),$0 ,Excellent,None,2020-08-06
+4443,SAndrA mURray,30,,Atlanta,AB+,PhD,Self-employed,$0 (Business Closed),Poor,480,2022-01-16
+5043,maRK wiLLIaMs,24,,Atlanta,O-,,Unemployed,$0 ,Excellent,N/A,2021-08-02
+2830,stEPHAnie rEid dvm,41,,Atlanta,AB+,High School,Employed,"$40,000 ",Good,720,2020-03-17
+2752,sEth BArTleTt ii,19,,Atlanta,AB+,Bachelor's,Student,$0 ,Excellent,None,2020-07-23
+5196,jerEmY rIcH,25,,Atlanta,O-,,Self-employed,"$60,000 (Unstable)",Poor,580,2022-07-22
+4905,eLIZAbeTh MiLLEr,47,,Atlanta,O-,Master's,Unemployed,$0 ,Average,650,2020-08-08
+4385,ErIn MaRtiN,38,,Atlanta,O-,PhD,Retired,"$75,000 (Pension)",Excellent,810,2023-09-29
+7745,FRaNK HESS,31,,Atlanta,B-,Associate,Employed,"$50,000 ",Good,780,2022-01-05
+4826,pAul Rogers,25,,Atlanta,AB-,High School,Unemployed,$0 ,Poor,N/A,2020-06-22
+1647,JEnNiFEr edWArDS,39,,Atlanta,AB-,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2019-10-26
+8043,BRian halL,23,,Atlanta,O+,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2024-02-21
+3551,kIMbERly WILLIamS,29,,Atlanta,AB+,,Student (Full-time),$0 ,Good,None,2023-01-07
+3589,IsAaC MENdeZ,52,,Atlanta,B+,PhD,Employed,"$120,000 ",Excellent,830,2023-09-21
+1127,SarAh SmitH,27,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,550,2022-12-07
+4155,dAniEl Wolf,40,,Atlanta,O+,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2022-12-13
+2647,RobeRT RoSS,18,,Atlanta,O-,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2022-11-16
+6893,DOuglAS fosTEr,51,,Atlanta,O+,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2019-06-19
+3597,LOuIS LoWERY,71,,Atlanta,B+,PhD,Unemployed,$0 ,Poor,N/A,2023-01-29
+3639,JESsICA Tyler,23,,Atlanta,O-,Associate,Employed,"$45,000 ",Average,680,2023-11-30
+6645,wiLLiAm davIES,21,,Atlanta,A+,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-03-26
+3410,JeSSICA rEyeS,21,,Atlanta,AB+,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2021-08-21
+9448,dAnIEl JoneS,22,,Atlanta,O-,,Unemployed,$0 ,Poor,480,2024-01-03
+9246,PAUla moRaLes,23,,Atlanta,A+,PhD,Employed,"$130,000 (Commission)",Average,710,2024-03-23
+2473,DAvId spEArS,26,,Atlanta,A+,Associate,Unemployed,$0 ,Good,N/A,2022-12-03
+2892,ScoTT bErRY,40,,Atlanta,B+,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2021-09-25
+5432,dAltON NGuYEN,62,,Atlanta,B-,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2020-08-23
+9605,SCoTT clARK,44,,Atlanta,B+,Master's,Retired,"$60,000 (Social Security)",Average,740,2020-09-18
+4110,JaMIE bAKEr,29,,Atlanta,AB+,PhD,Unemployed,$0 ,Poor,N/A,2022-08-01
+8908,couRTnEy pAtrick,36,,Atlanta,AB-,Associate,Employed,"$50,000 ",Good,690,2020-01-11
+7375,wILLiAm waRE,24,,Atlanta,AB+,High School,Student (Full-time),$0 ,Excellent,None,2020-10-16
+8388,AmBer andeRSoN,48,,Atlanta,A+,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2024-04-29
+6622,caSey joHNson,19,,Atlanta,O+,,Unemployed,$0 ,Average,450,2022-07-05
+1249,ZAcHaRY ColLins,19,,Atlanta,B+,PhD,Employed,"$140,000 (Commission)",Good,730,2019-08-27
+4364,ZACHArY rEed,56,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2024-03-10
+9931,CHRisTOPHer wEiss,32,,Atlanta,AB-,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2023-02-16
+7089,CHArleS sTrong,1,,Atlanta,O-,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2024-04-25
+9677,kathErINE KeLLY,51,,Atlanta,B-,Master's,Retired,"$65,000 (Social Security)",Good,760,2023-09-25
+2440,chrIstOPhEr heNdERSon,47,,Atlanta,AB-,Master's,Student (Full-time),$0 ,Excellent,None,2022-09-12
+2690,jOsEPh bROWn,37,,Atlanta,O+,PhD,Employed,"$90,000 ",Good,800,2019-06-30
+3508,josEpH SAncHEz,45,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,N/A,2023-02-12
+9665,KYle pEREz,30,,Atlanta,AB-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2020-01-23
+8704,EdUaRdO hOuSTOn,26,,Atlanta,AB+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-11-25
+5069,lORi roACh,82,,Atlanta,A+,,Retired,"$40,000 (Pension)",Good,710,2021-02-10
+7481,ErIc bUtleR,45,,Atlanta,AB-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-01-30
+6039,jEfFREY bROWn,0,,Atlanta,O+,High School,Employed,"$55,000 ",Excellent,780,2019-08-24
+1094,ThOmAs hAAS,40,,Atlanta,A+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2024-02-05
+4665,kelLY tURner,0,,Atlanta,O+,Master's,Self-employed,"$140,000 ",Excellent,850,2021-08-30
+8062,lANce SiMPsOn,57,,Atlanta,B+,,Unemployed,$0 ,Poor,420,2022-01-07
+3540,jeffrey GReeN,50,,Atlanta,AB+,PhD,Employed,"$100,000 ",Average,750,2023-09-08
+9301,ErIc cOLlInS,35,,Atlanta,B+,Associate,Unemployed,$0 ,Good,N/A,2021-10-07
+2882,brIanNa wiLlIaMs,29,,Atlanta,B+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-02-29
+4426,RoBerT gRavEs,21,,Atlanta,A+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2019-08-06
+9747,CINDy wiLLIamS,39,,Atlanta,A-,Master's,Retired,"$50,000 (Social Security)",Average,700,2019-08-06
+8333,VIcToR sULLivan,47,,Atlanta,O+,PhD,Unemployed,$0 ,Poor,N/A,2021-12-06
+7263,Frank SCotT,39,,Atlanta,A-,Associate,Employed,"$40,000 ",Good,650,2020-05-19
+2280,Mark BRaDShaw,36,,Atlanta,AB+,High School,Student (Full-time),$0 ,Excellent,None,2019-12-27
+2863,JeSSicA duNn,33,,Atlanta,AB-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2022-06-04
+5379,KELsEy foX,18,,Atlanta,O+,,Unemployed,$0 ,Average,400,2023-01-18
+3276,MarY RICE,24,,Atlanta,B+,PhD,Employed,"$110,000 (Commission)",Good,770,2023-07-25
+6911,RACHeL jaCKSON,27,,Atlanta,A+,Associate,Unemployed,$0 ,Poor,N/A,2020-07-17
+9910,leah FRederICk,19,,Atlanta,O-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2023-02-03
+7491,COnnOr ODoNNell,31,,Atlanta,A-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2021-11-27
+7701,clAUdIa DoWNS,25,,Atlanta,A-,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-08-18
+7114,wIlliaM LaNG,21,,Atlanta,B+,PhD,Unemployed,$0 ,Excellent (?!),N/A,2019-07-06
+1248,LIsA MORAn,64,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,N/A,2024-02-17
+8289,rUBeN BUrTOn,36,,Atlanta,AB-,Master's,Self-employed,"$120,000 ",Good,810,2021-09-06
+9715,bRANdon sMith,25,,Atlanta,AB+,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2021-12-17
+2146,jeSSiCa MURPHY,40,,Atlanta,A+,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2022-09-20
+7118,miSty wiLLIamS,23,,Atlanta,AB-,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2021-12-13
+6602,brAndY GEORGE,35,,Atlanta,A+,Master's,Student (Full-time),$0 ,Excellent,None,2021-10-12
+9699,ANDrea Buck,18,,Atlanta,O-,PhD,Employed,"$90,000 ",Good,800,2023-08-08
+5443,STephanIE bUrKE,24,,Atlanta,AB-,Associate,Unemployed,$0 ,Poor,N/A,2019-11-15
+8146,STEPHaNiE moON,49,,Atlanta,B-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2021-12-17
+4939,sHaRON joHnsON,61,,Atlanta,O+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-11-08
+5117,MaTtHeW haLEY,22,,Atlanta,A+,,Retired,"$40,000 (Pension)",Good,710,2020-02-24
+9091,SaBRInA May,28,,Atlanta,O+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2022-05-28
+2914,melindA aUstiN,0,,Atlanta,A+,High School,Employed,"$55,000 ",Excellent,780,2022-09-03
+1055,angElA MonTgOmery,39,,Atlanta,AB-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2020-04-07
+6384,VAnessA MaRTiN,34,,Atlanta,O+,Master's,Self-employed,"$140,000 ",Excellent,850,2019-08-25
+8451,gABriel steVEnS,28,,Atlanta,B-,,Unemployed,$0 ,Poor,420,2021-05-28
+7919,MichAEL wOLfE,19,,Atlanta,O+,PhD,Employed,"$100,000 ",Average,750,2024-02-25
+8939,bROokE TorreS,36,,Atlanta,O+,Associate,Unemployed,$0 ,Good,N/A,2019-09-08
+6834,vicTOr DUKE,26,,Atlanta,B-,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2023-05-25
+9505,josepH gaRrETt,29,,Atlanta,AB-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2023-07-11
+3095,kARa lI,19,,Atlanta,A+,Master's,Retired,"$50,000 (Social Security)",Average,700,2024-03-20
+9361,jUan kEllEy,Unknown,,Atlanta,AB+,PhD,Unemployed,$0 ,Poor,N/A,2021-11-05
+4179,sHawNA rUsseLl,26,,Atlanta,O-,Associate,Employed,"$40,000 ",Good,650,2023-08-27
+9772,LOrI LawREnce,4,,Atlanta,B-,High School,Student (Full-time),$0 ,Excellent,None,2022-05-26
+5579,WhItney jonES,42,,Atlanta,B+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2021-09-13
+2465,JOE DaVila,26,,Atlanta,O-,,Unemployed,$0 ,Average,400,2024-03-10
+3880,lISa KELlEr,46,,Atlanta,AB+,PhD,Employed,"$110,000 (Commission)",Good,770,2022-09-26
+3571,jOrdAN BUSh,23,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2019-12-26
+5690,BrEnDA yU,27,,Atlanta,A-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2021-01-18
+2446,JASmine sHort,4,,Atlanta,O-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2021-02-23
+1505,Tamara LEonArd,48,,Atlanta,AB+,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-03-15
+7596,keVIN wong,33,,Atlanta,A+,Master's,Student (Full-time),$0 ,Excellent,None,2019-09-22
+8031,LIsa LopeZ,31,,Atlanta,AB+,PhD,Employed,"$150,000 (Commission)",Good,820,2023-12-07
+4324,jUSTiN VArgAs,69,,Atlanta,O-,Associate,Unemployed,$0 ,Poor,N/A,2020-07-01
+1769,JoDy loPEZ,29,,Atlanta,O+,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2020-05-12
+3412,JONaTHaN wOODs,24,,Atlanta,B+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2022-08-29
+9230,eMMa RAY,26,,Atlanta,O-,,Unemployed,$0 ,Poor,380 (Typo),2019-11-01
+7594,andrEa jOHNSon,24,,Atlanta,AB-,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2019-08-16
+4500,waYnE SHArp,38,,Atlanta,B+,High School,Employed,"$60,000 ",Excellent,800,2021-02-28
+3242,sHelby BLack,53,,Atlanta,A+,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2020-09-07
+9180,maRthA MARTiN,33,,Atlanta,A+,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2024-02-16
+3229,amanDA wilSoN,17,,Atlanta,B+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2021-01-16
+5829,JErEMy NGuyeN,37,,Atlanta,A+,High School (GED),Unemployed,$0 ,Poor,N/A,2023-01-31
+5330,eILEEN HaRRIs,17,,Atlanta,B-,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2022-07-29
+2669,johN becKEr,30,,Atlanta,O-,,Student (Internship),"$20,000 (Stipend)",Good,None,2022-04-27
+1355,FelICIa wILey,56,,Atlanta,O-,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2020-06-06
+5967,JESsE JOneS,59,,Atlanta,AB-,Master's,Unemployed,$0 ,Poor,N/A,2019-11-02
+6096,steVEN gleNn,61,,Atlanta,B+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2022-09-12
+6713,CAROLine sWanSoN,35,,Atlanta,A+,High School,Employed,"$60,000 ",Excellent,810,2021-01-10
+6044,TERRy NiCHolson,4,,Atlanta,B-,Bachelor's,Student (Full-time),$0 ,Good,None,2019-11-05
+1392,KelLy tHOmAS,48,,Atlanta,A+,,Self-employed,"$120,000 (Seasonal)",Average,660,2021-02-17
+8636,stevEn McgeE,15,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2023-06-04
+7309,sHeLleY waRE,54,,Atlanta,B-,PhD,Employed,"$130,000 (Commission)",Good,740,2023-09-07
+9915,MELiSSA bRADY,51,,Atlanta,O-,Master's,Student (Full-time),$0 ,Excellent,None,2022-09-29
+4729,MArIA hAll,24,,Atlanta,A+,PhD,Employed,"$90,000 ",Good,800,2022-02-03
+6662,AnDRE sMITh,25,,Atlanta,B+,Associate,Unemployed,$0 ,Poor,N/A,2024-02-14
+4585,KareN GOnZaleZ,27,,Atlanta,A+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2020-09-10
+7476,ViNCENt SelLErS,44,,Atlanta,B+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2023-01-24
+7009,brANDon buRKe,48,,Atlanta,O-,,Retired,"$40,000 (Pension)",Good,710,2021-10-01
+9940,MR. MArK hANCocK,32,,Atlanta,O+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-06-05
+2605,kenNETH PEReZ,28,,Atlanta,O+,High School,Employed,"$55,000 ",Excellent,780,2023-08-09
+3602,MArtiN haNsEn,53,,Atlanta,B-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2020-12-22
+5671,susAn bROWN,44,,Atlanta,A+,Master's,Self-employed,"$140,000 ",Excellent,850,2022-06-21
+4939,niCOle ALVAraDO,19,,Atlanta,B-,,Unemployed,$0 ,Poor,420,2021-05-05
+2350,JeSsicA RodRiGUeZ,20,,Atlanta,A-,PhD,Employed,"$100,000 ",Average,750,2024-04-20
+4299,tiNA PriCE,33,,Atlanta,A+,Associate,Unemployed,$0 ,Good,N/A,2022-06-13
+9295,mR. jaCk wIlliS,60,,Atlanta,O+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2023-09-01
+9483,GreGoRY aDAMS,47,,Atlanta,AB+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2020-03-14
+2793,DAVId RObErtS,33,,Atlanta,A+,Master's,Retired,"$50,000 (Social Security)",Average,700,2022-06-05
+2386,COry PERry,56,,Atlanta,O+,PhD,Unemployed,$0 ,Poor,N/A,2019-12-19
+2452,JeSsica BarrY,27,,Atlanta,A-,Associate,Employed,"$40,000 ",Good,650,2020-12-06
+1202,cyNthIA thOmAs,29,,Atlanta,B+,High School,Student (Full-time),$0 ,Excellent,None,2019-05-13
+6596,sHannOn JOHnSOn,27,,Atlanta,A-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2023-01-17
+2068,jUSTIn whITE,37,,Atlanta,AB-,,Unemployed,$0 ,Average,400,2022-07-28
+6849,reGINA sTewarT,19,,Atlanta,O+,PhD,Employed,"$110,000 (Commission)",Good,770,2022-10-15
+7353,chelsEa FInLeY,33,,Atlanta,A+,Associate,Unemployed,$0 ,Poor,N/A,2020-05-25
+3811,emmA beNNeTt,34,,Atlanta,A-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2021-02-13
+6328,AlaN lEe,33,,Atlanta,AB-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-05-31
+7440,KatELYn MiLler,21,,Atlanta,AB+,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-01-18
+6000,aManda morriS,50,,Atlanta,B-,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2020-08-19
+7283,dAvID pRatt,62,,Atlanta,A-,High School (GED),Unemployed,$0 ,Poor,N/A,2022-12-24
+4494,MAtTheW cunnINGHAm,49,,Atlanta,O+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2020-09-05
+5738,bObBY CarSoN,30,,Atlanta,A-,,Student (Internship),"$20,000 (Stipend)",Good,None,2022-09-10
+7337,meliNda WIlSOn,21,,Atlanta,AB-,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2021-04-26
+3810,NancY HaNSEn,27,,Atlanta,O-,Master's,Unemployed,$0 ,Poor,N/A,2024-01-20
+8483,gReGoRY wALlS,57,,Atlanta,A-,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2021-03-05
+8051,aMBer NiXoN,54,,Atlanta,O+,High School,Employed,"$60,000 ",Excellent,810,2020-12-27
+8539,KriStIn fRancO,32,,Atlanta,AB+,Bachelor's,Student (Full-time),$0 ,Good,None,2021-09-22
+7092,JEremIAH vAZQuEz,19,,Atlanta,B-,,Self-employed,"$120,000 (Seasonal)",Average,660,2023-05-01
+4509,AnthONy SmITH,26,,Atlanta,O+,Associate,Unemployed,$0 ,Poor,N/A,2019-05-12
+9521,vIcToRiA brADy,53,,Atlanta,O+,PhD,Employed,"$130,000 (Commission)",Good,740,2021-02-22
+2477,erIN cLaRk,46,,Atlanta,B+,Bachelor,Employed,"$80,000 ",Good,720,2022-03-10
+7052,hEAtHer BOyLe,23,,Atlanta,B+,Associate,Unemployed,$0 ,Excellent,N/A,2022-10-23
+5366,eLiZAbeTH ShEPPARd,30,,Atlanta,O-,PhD,Self-employed,"$120,000 ",Poor,550,2024-03-13
+9276,roBErT boOne,21,,Atlanta,AB+,High School,Employed,"$45,000 ",Excellent,800,2019-08-06
+5634,geoFFrEy DANiELs,19,,Atlanta,B-,Master's,Retired,"$50,000 ",Average,680,2020-09-15
+9669,joHN khAn,18,,Atlanta,AB+,,Student,$0 ,Good,N/A,2019-10-31
+6531,ChrISTopheR aRmSTRoNg,34,,Atlanta,O-,,Unemployed,Missing,Poor,400,2020-09-07
+1291,JeNNiFER lopez,12,,Atlanta,O-,Associate,Employed,"$65,000 ",,750,2021-08-27
+2894,mELISSa ROBerTson,52,,Atlanta,A-,High School,Self-employed,"$30,000 ",Excellent,600,2019-12-21
+8520,KAren PriCE,38,,Atlanta,B-,PhD,Employed,"$100,000 ",Average,790,2019-09-23
+5190,LiSa fRanKLin,23,,Atlanta,A+,PhD,Retired,$0 ,Average,537,2022-05-21
+4838,KRisTIN BURtoN,24,,Atlanta,B-,Bachelor's,Unemployed,$0 ,Excellent,None,2019-12-29
+5882,caiTLin aDAms,36,,Atlanta,A-,High School,Unemployed,$0 ,Good,457,2020-04-03
+1022,EvaN HeRnANDez,24,,Atlanta,A+,PhD,Unemployed,$0 ,,N/A,2022-12-15
+1496,jEnNiFer KNiGht,57,,Atlanta,O-,Bachelor's,Retired,$0 ,,None,2020-08-07
+4932,BOnnIE WiLSon,19,,Atlanta,A-,,Student,$0 ,,N/A,2022-03-19
+7285,kEnnETh raMIREZ,28,,Atlanta,A+,Master's,Self-employed,"$135,068 ",Average,794,2024-03-10
+6733,ELleN mCCuLloUgh,29,,Atlanta,AB-,PhD,Employed,"($50,975)",Good,None,2019-11-29
+6361,THomAS SToNe,35,,Atlanta,B-,Master's,Unemployed,$0 ,Good,814,2019-07-17
+5344,katHLEEn ArMstrong,2,,Atlanta,O-,PhD,Self-employed,"($102,073)",Poor,780,2020-05-27
+9019,tErrY BEnnetT,39,,Atlanta,A-,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2019-09-06
+4771,kRISTIN NGuYeN,20,,Atlanta,AB+,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-04-06
+4661,aNgEla rANdOLph,60,,Atlanta,O+,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2019-05-19
+1671,chrIsTOpHEr tAtE,59,,Atlanta,A-,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2023-09-24
+7580,chrisTopHeR wALToN,23,,Atlanta,AB-,Associate,Unemployed,$0 ,,N/A,2019-09-30
+3243,mEAGAN MIranDA,25,,Atlanta,A+,PhD,Employed,"$110,000 (Commission)",Good,830,2022-07-23
+7799,dAvId BrOwn,25,,Atlanta,AB-,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2020-05-11
+1725,EriC MilleR,38,,Atlanta,O+,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2019-08-01
+2099,JoeL BaRTlEtT,25,,Atlanta,B+,Bachelor's,Student (Full-time),$0 ,Excellent,None,2019-09-06
+1334,stAcY GIlLEspiE,24,,Atlanta,B-,PhD,Self-employed,$0 (Business Closed),Poor,480,2023-01-28
+7285,cINdy SHaW,49,,Atlanta,O-,,Unemployed,$0 ,Excellent,N/A,2023-09-11
+7288,Andrew eriCKsON,30,,Atlanta,AB+,High School,Employed,"$40,000 ",Good,720,2020-03-11
+4728,aShleY roDrIguez,18,,Atlanta,B-,Bachelor's,Student,$0 ,Excellent,None,2021-03-07
+8870,dARrYl CruZ,20,,Atlanta,O+,,Self-employed,"$60,000 (Unstable)",Poor,580,2024-04-03
+7011,shEiLA cHurcH,18,,Atlanta,B-,Master's,Unemployed,$0 ,Average,650,2022-12-25
+9060,NANcY munOZ,23,,Atlanta,AB+,PhD,Retired,"$75,000 (Pension)",Excellent,810,2020-04-01
+5631,REBeccA MarTinEZ,51,,Atlanta,A+,Associate,Employed,"$50,000 ",Good,780,2020-01-23
+2558,johN SIMmOns,57,,Atlanta,O+,High School,Unemployed,$0 ,Poor,N/A,2023-02-10
+2968,LANce TORREs,27,,Atlanta,B-,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2023-10-20
+7870,tImotHy TErrY,39,,Atlanta,A-,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2020-07-15
+3886,joHn MOorE,21,,Atlanta,A-,,Student (Full-time),$0 ,Good,None,2023-01-14
+3866,bRAdLeY RAMos,17,,Atlanta,A-,PhD,Employed,"$120,000 ",Excellent,830,2021-06-19
+6482,JIlL TayLOR,35,,Atlanta,O-,Associate,Unemployed,$0 ,Poor,550,2020-05-18
+2927,kelLy brown,57,,Atlanta,B-,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2020-05-16
+1579,jonATHan chAVEZ,43,,Atlanta,AB+,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2021-03-11
+3975,deniSe Wall,41,,Atlanta,B-,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2023-02-05
+3060,ToDd martinez,32,,Atlanta,A+,PhD,Unemployed,$0 ,Poor,N/A,2021-10-19
+9368,jEnnIFer foRD,29,,Atlanta,B-,Associate,Employed,"$45,000 ",Average,680,2019-09-07
+1076,RAYMOnD Park JR.,38,,Atlanta,B-,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-05-26
+9525,jUlia reYNOLDs,39,,Atlanta,O-,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2021-05-07
+7341,JOhN McleAn,32,,Atlanta,AB-,,Unemployed,$0 ,Poor,480,2023-01-17
+9842,KATie hOwARd,30,,Atlanta,AB-,PhD,Employed,"$130,000 (Commission)",Average,710,2020-03-05
+2862,AmandA LAWSon,24,,Atlanta,AB-,Associate,Unemployed,$0 ,Good,N/A,2022-09-16
+8023,PAUL muRRaY,60,,Atlanta,AB+,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2022-06-03
+7246,JAmEs MorRis,20,,Atlanta,AB-,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2020-12-30
+8168,MaTTHew cOlliNs,28,,Atlanta,B-,Master's,Retired,"$60,000 (Social Security)",Average,740,2020-08-09
+9443,sharOn cArPenTeR,57,,Atlanta,AB-,PhD,Unemployed,$0 ,Poor,N/A,2021-03-10
+7834,maRcUS bRoWn,47,,Atlanta,O+,Associate,Employed,"$50,000 ",Good,690,2021-03-15
+9289,mItcHElL DeCkeR,Unknown,,Atlanta,B-,High School,Student (Full-time),$0 ,Excellent,None,2021-08-23
+1759,dONald mURPhY,28,,Atlanta,A+,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2023-11-11
+5466,JOSePh faRlEy,33,,Atlanta,A+,,Unemployed,$0 ,Average,450,2023-12-31
+1949,BReNdaN paRKer,24,,Atlanta,A+,PhD,Employed,"$140,000 (Commission)",Good,730,2019-09-21
+2838,SaMuEL dAVis,57,,Atlanta,B+,Associate,Unemployed,$0 ,Poor,N/A,2022-11-04
+2963,KeLsey POrTeR,26,,Atlanta,O-,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2019-08-08
+3575,mArk bRYaNt,84,,Atlanta,O+,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2023-10-05
+4717,mARGAret ZamoRa,23,,Atlanta,O+,Master's,Retired,"$65,000 (Social Security)",Good,760,2020-08-28
+2333,dAVid pAyne,19,,Atlanta,A+,Master's,Student (Full-time),$0 ,Excellent,None,2020-07-08
+4334,tony salAs pHD,76,,Atlanta,O+,PhD,Employed,"$90,000 ",Good,800,2023-10-06
+6348,AdRiaN bowMan,35,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2023-07-01
+1736,MRS. laUrEn morgaN,51,,Atlanta,B-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2021-08-07
+4721,joSHuA muRRay,30,,Atlanta,A-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2020-05-13
+5823,JAsoN webER,23,,Atlanta,B-,,Retired,"$40,000 (Pension)",Good,710,2023-09-26
+6930,reBeCcA LeWis,58,,Atlanta,A+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-06-14
+6301,JOAn aRcHeR,20,,Atlanta,AB-,High School,Employed,"$55,000 ",Excellent,780,2024-05-05
+2737,brittAnY EDwarDs,18,,Atlanta,A-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2023-04-03
+8280,tiMotHy dIAz,32,,Atlanta,B-,Master's,Self-employed,"$140,000 ",Excellent,850,2021-10-24
+7933,DaniEL BLaNKenShIP,29,,Atlanta,B+,,Unemployed,$0 ,Poor,420,2023-05-24
+7968,mAry stEphenS,20,,Atlanta,A+,PhD,Employed,"$100,000 ",Average,750,2019-12-20
+4657,BrIAN FigUERoA,44,,Atlanta,A-,Associate,Unemployed,$0 ,Good,N/A,2022-04-27
+2201,sTEphANIe anderSOn,19,,Atlanta,B+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2019-11-14
+1168,MiCHaeL DOyle,37,,Atlanta,O-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2022-04-17
+6558,KAThlEEn MARsHAll,32,,Atlanta,A-,Master's,Retired,"$50,000 (Social Security)",Average,700,2022-04-15
+9968,dONaLD lYNch,23,,Atlanta,O+,PhD,Unemployed,$0 ,Poor,N/A,2021-03-13
+2090,DaVid EspInoza,21,,Atlanta,A+,Associate,Employed,"$40,000 ",Good,650,2021-12-18
+6851,jULia kEiTh,25,,Atlanta,O-,High School,Student (Full-time),$0 ,Excellent,None,2022-12-09
+4280,KRiStEN cOhEn,20,,Atlanta,O-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2024-01-06
+5407,eRICa ReyEs,1,,Atlanta,O+,,Unemployed,$0 ,Average,400,2020-12-27
+9828,aNdREw bryAN,31,,Atlanta,O-,PhD,Employed,"$110,000 (Commission)",Good,770,2024-01-05
+3194,MaRy pArrISH,28,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2021-02-24
+2487,kATRIna WaRreN,65,,Atlanta,AB-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2023-09-11
+2133,Kevin rOBInSoN,20,,Atlanta,A+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2022-01-31
+4363,miCHaeL BrADLEY,37,,Atlanta,O+,Master's,Retired,"$55,000 (Social Security)",Good,730,2022-08-22
+8471,debBiE scOtt,34,,Atlanta,A-,PhD,Unemployed,$0 ,Excellent (?!),N/A,2021-10-07
+5795,sARA caNTrelL,34,,Atlanta,O-,Associate,Unemployed,$0 ,Poor,N/A,2021-10-04
+3831,cAtheRInE PEtErSOn,18,,Atlanta,A+,Master's,Self-employed,"$120,000 ",Good,810,2023-08-13
+4496,KYLe tHoMaS,32,,Atlanta,B-,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2019-11-16
+5155,ScOtT sImON,29,,Atlanta,A-,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2023-05-10
+4191,valErIe HUnter,28,,Atlanta,O+,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2021-03-28
+1329,AsHley WaRnER,49,,Atlanta,A+,Master's,Student (Full-time),$0 ,Excellent,None,2021-12-21
+6265,mOniQue dOMiNgUEz,32,,Atlanta,B+,PhD,Employed,"$90,000 ",Good,800,2021-02-05
+2481,coDy TAYLOR,22,,Atlanta,AB+,Associate,Unemployed,$0 ,Poor,N/A,2023-07-15
+6021,aMAnDa SULLIvan,22,,Atlanta,O-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2023-01-20
+6179,MARY ruIz,54,,Atlanta,AB-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2020-03-22
+8359,aPRil MaRTIN,51,,Atlanta,AB+,,Retired,"$40,000 (Pension)",Good,710,2020-10-17
+5404,sean bENNeTt,47,,Atlanta,O+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-01-19
+1029,Ryan hARRis,37,,Atlanta,A-,High School,Employed,"$55,000 ",Excellent,780,2023-03-26
+9896,TylER gonZalez,24,,Atlanta,A-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2022-09-28
+7425,CHRistOPheR rOdRIgUEZ,56,,Atlanta,AB-,Master's,Self-employed,"$140,000 ",Excellent,850,2019-10-20
+6837,briAn ArEllAno,30,,Atlanta,O+,,Unemployed,$0 ,Poor,420,2022-03-13
+7586,DanIeLLe cANNOn,43,,Atlanta,B+,PhD,Employed,"$100,000 ",Average,750,2020-03-19
+1341,KATIe mARTinEZ,53,,Atlanta,O+,Associate,Unemployed,$0 ,Good,N/A,2021-02-22
+7767,pamEla KeLLY,38,,Atlanta,B-,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2021-06-28
+9424,laURie EdWaRdS,46,,Atlanta,A-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2022-10-08
+4480,chAd crOss,27,,Atlanta,B-,Master's,Retired,"$50,000 (Social Security)",Average,700,2021-10-05
+4882,KYLe grAy,66,,Atlanta,AB+,PhD,Unemployed,$0 ,Poor,N/A,2023-02-15
+2467,CaseY HamIlToN,21,,Atlanta,O-,Associate,Employed,"$40,000 ",Good,650,2021-01-24
+1379,JIlLIAN sILva,40,,Atlanta,A+,High School,Student (Full-time),$0 ,Excellent,None,2022-01-22
+5537,DOnAld AYAlA,50,,Atlanta,AB-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2023-03-02
+1228,wIlLIAM forD,42,,Atlanta,B+,,Unemployed,$0 ,Average,400,2020-10-26
+8626,IsABella kENNEDy,37,,Atlanta,B-,PhD,Employed,"$110,000 (Commission)",Good,770,2022-02-09
+6994,jUSTIN BrOwN,64,,Atlanta,B+,Associate,Unemployed,$0 ,Poor,N/A,2023-10-26
+9940,SHANNoN aLexaNder,35,,Atlanta,A-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2024-01-11
+3263,kATHERIne WhITakEr,26,,Atlanta,O+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2022-05-25
+4778,JeREmy camPBELl,33,,Atlanta,B-,Master's,Retired,"$55,000 (Social Security)",Good,730,2019-07-31
+8381,joEl MOntgomeRY,21,,Atlanta,O+,Master's,Student (Full-time),$0 ,Excellent,None,2022-02-27
+2235,chRiStinE FrAziER,37,,Atlanta,AB+,PhD,Employed,"$150,000 (Commission)",Good,820,2021-05-15
+5376,bRittany NorMaN,23,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,N/A,2023-07-27
+9345,julIE frEEman,22,,Atlanta,A+,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2022-08-01
+2311,HenRY CastRo,23,,Atlanta,A+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2021-05-17
+7657,dR. aARon AndErseN,22,,Atlanta,A+,,Unemployed,$0 ,Poor,380 (Typo),2022-03-22
+5181,brANDon gOmEz,35,,Atlanta,B+,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2020-08-31
+1609,REgIna MATthEWs,35,,Atlanta,AB+,High School,Employed,"$60,000 ",Excellent,800,2021-03-17
+8597,AlAn roACH,25,,Atlanta,A+,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2019-06-13
+4586,CHRisTOPhER mcFarlaNd,34,,Atlanta,AB-,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2020-08-01
+9995,mICHAElA pATtERSON mD,33,,Atlanta,O+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2020-03-25
+5795,miChAel hofFMAn,46,,Atlanta,AB+,High School (GED),Unemployed,$0 ,Poor,N/A,2020-05-03
+4759,DYlAN SiMON,76,,Atlanta,A+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2022-11-29
+2032,chriStiNa DAVIs,22,,Atlanta,AB-,,Student (Internship),"$20,000 (Stipend)",Good,None,2019-12-12
+9981,JeNniFeR FUEntEs,24,,Atlanta,B+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2023-04-14
+5335,petER kelLY,49,,Atlanta,AB+,Master's,Unemployed,$0 ,Poor,N/A,2021-09-08
+7595,TammY coLE,25,,Atlanta,A+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2020-05-16
+3200,sanDra FLYnn,30,,Atlanta,B+,High School,Employed,"$60,000 ",Excellent,810,2020-05-24
+7596,KatHryn SMiTH,31,,Atlanta,B-,Bachelor's,Student (Full-time),$0 ,Good,None,2020-01-05
+8323,JACQUEliNE StANtON,34,,Atlanta,B-,,Self-employed,"$120,000 (Seasonal)",Average,660,2023-05-20
+7757,emMA FredERIck,27,,Atlanta,O-,Associate,Unemployed,$0 ,Poor,N/A,2023-10-16
+2745,kENNeTh jOnES,67,,Atlanta,O+,PhD,Employed,"$130,000 (Commission)",Good,740,2022-12-09
+3873,JEffrEy sMITH,35,,Atlanta,AB-,Master's,Student (Full-time),$0 ,Excellent,None,2022-10-21
+8977,DAVId OWeN,58,,Atlanta,O-,PhD,Employed,"$90,000 ",Good,800,2020-02-27
+1274,KYle REEd,18,,Atlanta,AB+,Associate,Unemployed,$0 ,Poor,N/A,2022-08-28
+1599,CHad peRez,18,,Atlanta,A+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2023-11-15
+6037,COUrtnEy bArnETT,21,,Atlanta,AB+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2023-03-25
+5709,KElLY MiLler,28,,Atlanta,A+,,Retired,"$40,000 (Pension)",Good,710,2021-02-28
+1939,lARRy rAmSEY,66,,Atlanta,B+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-05-14
+2166,edWaRD DUrAn,51,,Atlanta,B+,High School,Employed,"$55,000 ",Excellent,780,2020-04-19
+8747,LEAH SullIVAn,25,,Atlanta,A-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2024-01-18
+3744,SUsan oWeN,34,,Atlanta,B-,Master's,Self-employed,"$140,000 ",Excellent,850,2021-05-05
+9568,sTEVEN James,62,,Atlanta,A+,,Unemployed,$0 ,Poor,420,2020-06-27
+5414,hOLLY coLON,24,,Atlanta,A+,PhD,Employed,"$100,000 ",Average,750,2022-01-08
+8441,PaTRICK Cook,64,,Atlanta,A+,Associate,Unemployed,$0 ,Good,N/A,2019-09-01
+4267,daNIEL heNdriCks,22,,Atlanta,O-,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-02-17
+5364,RyAn BeRg,18,,Atlanta,O-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2021-04-05
+2624,DEbbiE thoMPsON,28,,Atlanta,B+,Master's,Retired,"$50,000 (Social Security)",Average,700,2023-07-14
+1806,JESsE SanCHeZ,29,,Atlanta,A+,PhD,Unemployed,$0 ,Poor,N/A,2021-01-06
+1821,NORMAN tHoMaS,24,,Atlanta,A-,Associate,Employed,"$40,000 ",Good,650,2023-05-05
+8282,cATherInE zhAnG,49,,Atlanta,O+,High School,Student (Full-time),$0 ,Excellent,None,2020-02-17
+6650,john OROzCo Md,25,,Atlanta,B+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2022-08-27
+9603,wAYNE hODGE,68,,Atlanta,A-,,Unemployed,$0 ,Average,400,2019-10-09
+6233,ElAINE LYncH,63,,Atlanta,B+,PhD,Employed,"$110,000 (Commission)",Good,770,2022-05-06
+7312,DERek LAwSoN,23,,Atlanta,B+,Associate,Unemployed,$0 ,Poor,N/A,2019-07-08
+3954,ANdRE andErSon,23,,Atlanta,O+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2020-09-12
+5077,DonNa SMitH,21,,Atlanta,B+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2021-12-02
+2369,Dr. LEONarD BrEWEr Ii,19,,Atlanta,A+,Master's,Retired,"$55,000 (Social Security)",Good,730,2022-09-08
+8554,pAMELa GARrett,23,,Atlanta,A+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2021-01-30
+8454,pHiLlip wIlsON,42,,Atlanta,O+,High School (GED),Unemployed,$0 ,Poor,N/A,2020-04-03
+7542,VAnEsSa WALKeR,23,,Atlanta,B-,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2022-08-14
+5113,jusTIN LEwis,26,,Atlanta,AB-,,Student (Internship),"$20,000 (Stipend)",Good,None,2023-05-09
+8822,aNtHoNy coLeMAn,54,,Atlanta,O+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2019-12-29
+4307,JasmInE luNA,39,,Atlanta,A-,Master's,Unemployed,$0 ,Poor,N/A,2020-04-10
+1811,mICHaeL pattON,17,,Atlanta,O-,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2022-11-19
+1979,JoShUA tURNER,21,,Atlanta,AB+,High School,Employed,"$60,000 ",Excellent,810,2019-08-18
+2843,bilLY JOhNSOn,26,,Atlanta,B+,Bachelor's,Student (Full-time),$0 ,Good,None,2021-09-30
+9844,AntHONy gOnZALez phd,29,,Atlanta,AB+,,Self-employed,"$120,000 (Seasonal)",Average,660,2019-09-16
+4253,saRaH LoPEZ,33,,Atlanta,AB+,Associate,Unemployed,$0 ,Poor,N/A,2021-04-18
+9554,LAWrencE wIlliAmS,1,,Atlanta,AB+,PhD,Employed,"$130,000 (Commission)",Good,740,2024-02-13
+2916,sUSAN NicHOLs,62,,Atlanta,A+,Bachelor,Employed,"$80,000 ",Good,720,2020-10-05
+7407,jEaN RodriGuez,39,,Atlanta,B-,Associate,Unemployed,$0 ,Excellent,N/A,2021-08-02
+4339,JeNNIfER leOn,27,,Atlanta,A-,PhD,Self-employed,"$120,000 ",Poor,550,2022-10-16
+7799,meREdIth HILl,45,,Atlanta,B-,High School,Employed,"$45,000 ",Excellent,800,2023-12-13
+4649,LaUra lAwrenCe,53,,Atlanta,O-,Master's,Retired,"$50,000 ",Average,680,2023-11-19
+8118,juSTin HiCks,37,,Atlanta,O-,,Student,$0 ,Good,N/A,2021-01-03
+9828,KRiSTa THORNton,30,,Atlanta,AB+,,Unemployed,Missing,Poor,400,2022-10-01
+1524,Ian DuFFy,32,,Atlanta,B+,Associate,Employed,"$65,000 ",,750,2019-05-24
+8742,jaDe BaKER,24,,Atlanta,O-,High School,Self-employed,"$30,000 ",Excellent,600,2021-05-31
+9192,BiLlY pEtersEn,37,,Atlanta,B+,PhD,Employed,"$100,000 ",Average,790,2019-07-02
+8326,robeRT GArciA,24,,Atlanta,B-,PhD,Retired,$0 ,Average,537,2022-12-01
+7700,joHn doNAlDsON,18,,Atlanta,B+,Bachelor's,Unemployed,$0 ,Excellent,None,2019-06-26
+1998,rAYMond gaLvaN,28,,Atlanta,A+,High School,Unemployed,$0 ,Good,457,2023-02-19
+5338,bRaNdoN GREene,24,,Atlanta,A-,PhD,Unemployed,$0 ,,N/A,2020-06-03
+6577,CHristINe COOper,22,,Atlanta,O+,Bachelor's,Retired,$0 ,,None,2021-05-06
+8886,AsHlEY HAWKInS,42,,Atlanta,B-,,Student,$0 ,,N/A,2020-11-22
+3400,deREK sINglETon,23,,Atlanta,AB+,Master's,Self-employed,"$135,068 ",Average,794,2021-02-14
+9946,KyLe ANDErsoN,58,,Atlanta,AB-,PhD,Employed,"($50,975)",Good,None,2022-08-12
+4314,SARAH GrEEn,19,,Atlanta,B+,Master's,Unemployed,$0 ,Good,814,2023-02-06
+7293,sHeLLY lyNn,51,,Atlanta,B+,PhD,Self-employed,"($102,073)",Poor,780,2021-08-04
+9065,JOHn mCcArTY,43,,Atlanta,A+,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2023-01-20
+8623,cOURTNEy mOoRE,32,,Atlanta,O-,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-03-12
+1461,jaVieR hamILToN,36,,Atlanta,O-,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2022-02-12
+6527,sanDra graham,34,,Atlanta,A+,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2022-06-16
+6059,Carol miLler,31,,Atlanta,AB+,Associate,Unemployed,$0 ,,N/A,2019-12-27
+1704,braNDI hOod,55,,Atlanta,A-,PhD,Employed,"$110,000 (Commission)",Good,830,2022-01-20
+6643,adAM thompsoN,26,,Atlanta,A+,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2022-09-12
+4272,ambER rEid,27,,Atlanta,AB+,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2020-12-17
+5123,jEnnifEr EvAns,39,,Atlanta,A+,Bachelor's,Student (Full-time),$0 ,Excellent,None,2022-01-10
+8307,keIth WilCox,49,,Atlanta,B-,PhD,Self-employed,$0 (Business Closed),Poor,480,2024-01-15
+2131,CyntHIa BRyaNt,22,,Atlanta,A+,,Unemployed,$0 ,Excellent,N/A,2021-12-09
+4403,NIChoLas bEll,19,,Atlanta,AB-,High School,Employed,"$40,000 ",Good,720,2019-08-05
+2686,HAnNAh CareY,22,,Atlanta,AB-,Bachelor's,Student,$0 ,Excellent,None,2021-02-17
+1530,BRaD lEwis,47,,Atlanta,O+,,Self-employed,"$60,000 (Unstable)",Poor,580,2019-05-29
+6558,CHrIsTIna sullIVAn,29,,Atlanta,A+,Master's,Unemployed,$0 ,Average,650,2019-08-28
+2001,sHARon ferREll,23,,Atlanta,AB-,PhD,Retired,"$75,000 (Pension)",Excellent,810,2023-03-15
+5093,kylE aRmStroNg,35,,Atlanta,AB+,Associate,Employed,"$50,000 ",Good,780,2023-02-05
+2157,BRYcE klEIN,32,,Atlanta,O+,High School,Unemployed,$0 ,Poor,N/A,2024-01-24
+2527,GAbRIeL GaRciA,25,,Atlanta,A-,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2021-01-02
+7038,JuSTIn gibbs,36,,Atlanta,AB-,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2019-07-12
+8371,keLly JOhNSON,26,,Atlanta,O+,,Student (Full-time),$0 ,Good,None,2019-09-27
+7892,ChristophEr bROWN,25,,Atlanta,B+,PhD,Employed,"$120,000 ",Excellent,830,2019-06-18
+2484,lISa CHamBERS,38,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,550,2022-04-22
+3241,MICHAel zImmeRMaN,29,,Atlanta,AB-,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2020-05-31
+5879,deaNNA colLiNS,33,,Atlanta,O-,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2021-12-15
+3492,eRIka HErNAndez,32,,Atlanta,B+,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2021-03-17
+9890,PAMeLA DuncaN,50,,Atlanta,B+,PhD,Unemployed,$0 ,Poor,N/A,2023-10-05
+6002,saRa jONES,21,,Atlanta,O+,Associate,Employed,"$45,000 ",Average,680,2022-11-15
+4274,THErEsA COlEMan,27,,Atlanta,A+,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-12-23
+9000,stACeY WOOd,31,,Atlanta,B+,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2020-02-10
+7078,pATrICK FlOreS,37,,Atlanta,O+,,Unemployed,$0 ,Poor,480,2021-06-11
+6268,lAURa mORgaN,55,,Atlanta,AB+,PhD,Employed,"$130,000 (Commission)",Average,710,2022-03-05
+5659,nIcOlE CRaNE,59,,Atlanta,AB+,Associate,Unemployed,$0 ,Good,N/A,2023-11-22
+8763,RoBert aRELlaNO,20,,Atlanta,O-,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2021-01-08
+4223,JoN SPeNCe,36,,Atlanta,A+,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2023-07-31
+9703,KevIn sMiTH,41,,Atlanta,A-,Master's,Retired,"$60,000 (Social Security)",Average,740,2019-08-10
+1575,RHonDa JAcKsoN,42,,Atlanta,B+,PhD,Unemployed,$0 ,Poor,N/A,2020-02-24
+9999,DanIEL mORRiS,25,,Atlanta,AB+,Associate,Employed,"$50,000 ",Good,690,2021-06-25
+4825,CoURtney stepHeNs,23,,Atlanta,B-,High School,Student (Full-time),$0 ,Excellent,None,2022-04-10
+6227,bRENT RObiNsON,32,,Atlanta,B+,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2020-01-26
+5073,DEVin HaRmon,49,,Atlanta,AB+,,Unemployed,$0 ,Average,450,2021-06-26
+8289,kimBErlY sHANNoN,69,,Atlanta,A-,PhD,Employed,"$140,000 (Commission)",Good,730,2022-03-21
+4902,paTRicIA bEniTez,47,,Atlanta,A+,Associate,Unemployed,$0 ,Poor,N/A,2022-11-01
+1486,micHAEl ROgERS,51,,Atlanta,B+,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2022-10-11
+9801,WIlLiam fAULKner,40,,Atlanta,B+,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2019-06-13
+5549,aMy HartmAN,32,,Atlanta,O-,Master's,Retired,"$65,000 (Social Security)",Good,760,2020-09-13
+8051,HoLlY anDeRSen,25,,Atlanta,O-,Master's,Student (Full-time),$0 ,Excellent,None,2022-05-26
+6490,jEnNiFEr MayO,44,,Atlanta,A+,PhD,Employed,"$90,000 ",Good,800,2021-07-07
+8039,Greg whItE,17,,Atlanta,B+,Associate,Unemployed,$0 ,Poor,N/A,2023-12-21
+9652,KeNNeth WeEks,1,,Atlanta,O+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2021-01-30
+3371,jESse YOrk,43,,Atlanta,O+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-07-06
+8747,LEAh stONe,26,,Atlanta,AB-,,Retired,"$40,000 (Pension)",Good,710,2022-10-12
+8790,JEfFReY FergUSON,33,,Atlanta,B+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-04-26
+7178,TRAVIS rOMAn,23,,Atlanta,B-,High School,Employed,"$55,000 ",Excellent,780,2020-02-06
+4452,aSHLEy SAlaZAr,37,,Atlanta,AB-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2019-09-21
+9509,DAVid mIraNDa,23,,Atlanta,B+,Master's,Self-employed,"$140,000 ",Excellent,850,2020-03-11
+7614,aNgela sUlLIVaN,16,,Atlanta,B+,,Unemployed,$0 ,Poor,420,2022-04-30
+9751,asHlEY bell,23,,Atlanta,AB-,PhD,Employed,"$100,000 ",Average,750,2020-04-09
+5447,mrs. sabrInA mOrEnO,29,,Atlanta,A+,Associate,Unemployed,$0 ,Good,N/A,2020-10-05
+7543,CraiG cLaRkE,42,,Atlanta,O+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2019-12-28
+6570,keLLy HIlL,24,,Atlanta,AB-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2023-09-05
+8335,aaROn WEAvEr,44,,Atlanta,AB-,Master's,Retired,"$50,000 (Social Security)",Average,700,2022-08-12
+1541,gEoRge mason,81,,Atlanta,AB-,PhD,Unemployed,$0 ,Poor,N/A,2024-02-17
+8587,JOnaTHan HODges,28,,Atlanta,B+,Associate,Employed,"$40,000 ",Good,650,2019-05-21
+6844,FelicIa YAng,24,,Atlanta,A-,High School,Student (Full-time),$0 ,Excellent,None,2019-11-30
+7880,SaraH MilLer,25,,Atlanta,B-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2023-01-29
+9515,vInCent RAY,50,,Atlanta,A-,,Unemployed,$0 ,Average,400,2019-06-21
+9682,JAMie CollINs,32,,Atlanta,B-,PhD,Employed,"$110,000 (Commission)",Good,770,2023-06-17
+5486,aMANdA CUmMINGS,22,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,N/A,2022-07-24
+9764,RAChEl SWanSON,2,,Atlanta,AB-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2022-01-28
+9302,nICoLE kNiGhT,33,,Atlanta,B+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2022-07-31
+8047,mIChAel mAnN,25,,Atlanta,B+,Master's,Retired,"$55,000 (Social Security)",Good,730,2023-05-05
+7395,wiLliAm ROGERS,18,,Atlanta,A-,PhD,Unemployed,$0 ,Excellent (?!),N/A,2020-08-31
+8574,MelAnIE mITCHEll,25,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2022-05-13
+6436,Steven ROBiNson,68,,Atlanta,AB+,Master's,Self-employed,"$120,000 ",Good,810,2019-12-04
+5150,BrIaN gEOrGe,25,,Atlanta,B-,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2023-04-06
+7288,ToNy haRrisoN,25,,Atlanta,B+,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2022-10-08
+6028,elaINe gUZMAn,23,,Atlanta,A-,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2023-07-22
+2301,MiCHeLLE lAne,42,,Atlanta,O+,Master's,Student (Full-time),$0 ,Excellent,None,2021-10-19
+6197,JaSon sMitH,41,,Atlanta,B+,PhD,Employed,"$90,000 ",Good,800,2021-12-05
+5311,jaNIce MooRE,58,,Atlanta,A-,Associate,Unemployed,$0 ,Poor,N/A,2023-09-24
+4940,jeNnIfeR HayES,34,,Atlanta,A+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2021-12-03
+1038,PhILlIp eSpinoZA,35,,Atlanta,A+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2020-02-06
+5938,charLENe BrowN MD,29,,Atlanta,O-,,Retired,"$40,000 (Pension)",Good,710,2023-07-30
+5500,THoMAs EricKSon,Unknown,,Atlanta,O-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2020-03-25
+5626,jEROmE DAY,20,,Atlanta,O-,High School,Employed,"$55,000 ",Excellent,780,2021-02-25
+8439,ALEjandro khaN,35,,Atlanta,B+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2020-10-25
+5835,lauriE cOLe,30,,Atlanta,A+,Master's,Self-employed,"$140,000 ",Excellent,850,2021-08-07
+7650,bILL waLKER,24,,Atlanta,A+,,Unemployed,$0 ,Poor,420,2023-01-21
+7702,aLEXaNdEr cErvANtEs,1,,Atlanta,O+,PhD,Employed,"$100,000 ",Average,750,2023-07-30
+8887,maNuEl knight,37,,Atlanta,A+,Associate,Unemployed,$0 ,Good,N/A,2023-09-25
+1886,aarOn siMMonS,40,,Atlanta,B+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-03-29
+4394,SAndY geOrgE,56,,Atlanta,B+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2023-08-10
+4152,auStIN AnDerSoN,17,,Atlanta,B-,Master's,Retired,"$50,000 (Social Security)",Average,700,2023-06-04
+9278,SHarON fReeMAN,55,,Atlanta,O-,PhD,Unemployed,$0 ,Poor,N/A,2021-03-26
+1841,GarY WiLsOn,24,,Atlanta,B+,Associate,Employed,"$40,000 ",Good,650,2020-11-15
+2586,REbecca JOnES,47,,Atlanta,B-,High School,Student (Full-time),$0 ,Excellent,None,2019-05-12
+6892,Craig WYaTt,28,,Atlanta,AB-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2019-05-20
+8303,AmAnda diXoN,22,,Atlanta,A-,,Unemployed,$0 ,Average,400,2024-01-03
+8086,CLaYTOn hoffmAn,46,,Atlanta,B+,PhD,Employed,"$110,000 (Commission)",Good,770,2020-05-17
+6711,LiNDsEY chErRY,15,,Atlanta,O+,Associate,Unemployed,$0 ,Poor,N/A,2022-10-03
+4962,joRDAN ValDEz,47,,Atlanta,O-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2020-09-24
+1648,MIsTy CLaRK,21,,Atlanta,B-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2019-10-12
+7418,ReBecca fULLEr,19,,Atlanta,A+,Master's,Retired,"$55,000 (Social Security)",Good,730,2022-03-11
+1202,joHN loPeZ,64,,Atlanta,AB-,Master's,Student (Full-time),$0 ,Excellent,None,2021-11-03
+7318,ChRiSTINa WiLlIAMS,36,,Atlanta,A+,PhD,Employed,"$150,000 (Commission)",Good,820,2023-01-21
+5148,LaUREn fRieDMAN,32,,Atlanta,B-,Associate,Unemployed,$0 ,Poor,N/A,2020-02-14
+4187,anDreA MorGAN,67,,Atlanta,AB-,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2023-08-17
+5514,aNGeLA GIlBErT,27,,Atlanta,O+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2020-08-30
+1488,FAitH fOstER,21,,Atlanta,A+,,Unemployed,$0 ,Poor,380 (Typo),2020-05-06
+8694,TaNNer BUrGesS,23,,Atlanta,B+,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2024-03-25
+5244,EliZabeTh TAyLoR,55,,Atlanta,B-,High School,Employed,"$60,000 ",Excellent,800,2020-11-08
+6872,eLIZAbEth huNt,33,,Atlanta,A-,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2019-09-09
+8592,EriN ryAn,24,,Atlanta,B+,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2019-05-29
+8716,MR. CODy NAvArrO,37,,Atlanta,A+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2021-02-22
+1850,LAUrIe garcIa,40,,Atlanta,B-,High School (GED),Unemployed,$0 ,Poor,N/A,2021-05-01
+9930,DeviN sheLtoN,26,,Atlanta,B-,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2022-05-04
+7687,oSCar nElSOn,46,,Atlanta,AB+,,Student (Internship),"$20,000 (Stipend)",Good,None,2023-06-27
+4700,TAYLoR BrOwn,18,,Atlanta,AB+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2023-05-05
+3363,AARon OnEal,48,,Atlanta,A-,Master's,Unemployed,$0 ,Poor,N/A,2019-09-22
+1977,JOHN milLer,22,,Atlanta,B-,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2023-10-22
+8740,britTAnY waTsoN,34,,Atlanta,A+,High School,Employed,"$60,000 ",Excellent,810,2021-09-02
+1846,JoHN moORe,50,,Atlanta,O-,Bachelor's,Student (Full-time),$0 ,Good,None,2021-06-30
+2786,JosepH lIVIngsTOn,50,,Atlanta,AB-,,Self-employed,"$120,000 (Seasonal)",Average,660,2024-01-28
+4439,ANdreW Brooks,21,,Atlanta,AB+,Associate,Unemployed,$0 ,Poor,N/A,2022-05-19
+7871,HArold webb,46,,Atlanta,B-,PhD,Employed,"$130,000 (Commission)",Good,740,2022-09-21
+8771,dOugLAS kIng,42,,Atlanta,B-,Master's,Student (Full-time),$0 ,Excellent,None,2020-12-06
+4035,jESSiCa fRANklIN,19,,Atlanta,A-,PhD,Employed,"$90,000 ",Good,800,2023-04-07
+9015,JOhn HowARD,70,,Atlanta,AB-,Associate,Unemployed,$0 ,Poor,N/A,2022-10-30
+2520,RobyN thOMpson,18,,Atlanta,B+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2019-11-12
+3539,IsAAc moralES,46,,Atlanta,AB-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2020-08-23
+3448,jasOn SmiTH,24,,Atlanta,AB+,,Retired,"$40,000 (Pension)",Good,710,2021-01-11
+3007,dOnnA joHnSON,28,,Atlanta,A-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2019-10-17
+3512,denise GuERRero,44,,Atlanta,A-,High School,Employed,"$55,000 ",Excellent,780,2019-05-09
+9925,dAVid chandLer,24,,Atlanta,AB+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2020-06-20
+8442,MiCHeLlE benDeR,40,,Atlanta,O-,Master's,Self-employed,"$140,000 ",Excellent,850,2020-07-21
+7210,jessE mOLina,29,,Atlanta,AB-,,Unemployed,$0 ,Poor,420,2019-05-22
+1834,Rita NelSon,89,,Atlanta,B+,PhD,Employed,"$100,000 ",Average,750,2019-09-15
+7794,JAnET Boyd,35,,Atlanta,B+,Associate,Unemployed,$0 ,Good,N/A,2019-12-23
+6463,cAthErIne wElCh,56,,Atlanta,A-,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-07-25
+6039,jaSOn daVis,19,,Atlanta,AB-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2019-11-15
+4401,ChRistOPheR reYnolDS,34,,Atlanta,B-,Master's,Retired,"$50,000 (Social Security)",Average,700,2020-09-15
+8303,LEaH martINez,17,,Atlanta,O-,PhD,Unemployed,$0 ,Poor,N/A,2023-08-08
+2266,mIchAeL DUArtE,44,,Atlanta,AB-,Associate,Employed,"$40,000 ",Good,650,2021-05-23
+7096,lauRa bAKEr,40,,Atlanta,AB-,High School,Student (Full-time),$0 ,Excellent,None,2020-07-22
+7118,cHArLeS tHOmPson,37,,Atlanta,A+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2022-06-01
+1533,juliA wade,24,,Atlanta,A-,,Unemployed,$0 ,Average,400,2024-01-01
+3934,GLORIA VANCe,37,,Atlanta,O+,PhD,Employed,"$110,000 (Commission)",Good,770,2024-04-25
+3903,JoHn ATKINs,20,,Atlanta,O+,Associate,Unemployed,$0 ,Poor,N/A,2019-08-30
+6718,aNGElA miLlER,34,,Atlanta,A-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2023-03-03
+3519,MAriA sUtTon,32,,Atlanta,A-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2020-01-16
+1557,laureN tayloR,53,,Atlanta,B-,Master's,Retired,"$55,000 (Social Security)",Good,730,2024-03-15
+5973,erIC PINeDa,53,,Atlanta,O+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2022-10-12
+4664,DOuGlAS tUrNeR,59,,Atlanta,B+,High School (GED),Unemployed,$0 ,Poor,N/A,2020-03-01
+5227,dOrOTHY quiNn,21,,Atlanta,O+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2022-05-25
+2570,CHrIstInA DyEr,43,,Atlanta,O-,,Student (Internship),"$20,000 (Stipend)",Good,None,2021-05-04
+1706,AlExaNdRIa cOLemaN,66,,Atlanta,O+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2023-06-20
+1927,vICToRIa evanS,35,,Atlanta,B+,Master's,Unemployed,$0 ,Poor,N/A,2020-01-09
+1328,wILliE maY,40,,Atlanta,AB-,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2024-01-29
+1047,JOsEPH eLLiS,28,,Atlanta,A+,High School,Employed,"$60,000 ",Excellent,810,2021-10-14
+8293,isaAc pEtErson,18,,Atlanta,O+,Bachelor's,Student (Full-time),$0 ,Good,None,2020-01-11
+5532,wilLiAm baSs,35,,Atlanta,B+,,Self-employed,"$120,000 (Seasonal)",Average,660,2021-08-24
+6518,MicHaeL EvANS,25,,Atlanta,B+,Associate,Unemployed,$0 ,Poor,N/A,2020-12-07
+9855,aNdREW hILL,25,,Atlanta,O+,PhD,Employed,"$130,000 (Commission)",Good,740,2021-12-13
+7588,herbErT jiMEneZ,59,,Atlanta,AB-,Bachelor,Employed,"$80,000 ",Good,720,2024-01-03
+4439,saNdrA MuRphy,67,,Atlanta,A-,Associate,Unemployed,$0 ,Excellent,N/A,2019-11-29
+4537,MIcHAEl ElLiotT,55,,Atlanta,A-,PhD,Self-employed,"$120,000 ",Poor,550,2019-09-08
+6824,MArY SaVaGe,26,,Atlanta,O+,High School,Employed,"$45,000 ",Excellent,800,2021-01-12
+1169,CheRYl FOSTeR,18,,Atlanta,O+,Master's,Retired,"$50,000 ",Average,680,2020-10-09
+4658,mR. DaviD bOweN,32,,Atlanta,B-,,Student,$0 ,Good,N/A,2023-09-24
+6286,cHRIStoPhEr WIlsON,24,,Atlanta,A+,,Unemployed,Missing,Poor,400,2022-10-04
+1745,MatTHEW sHANnOn,20,,Atlanta,A+,Associate,Employed,"$65,000 ",,750,2019-06-24
+3819,jill cUNninGhaM,16,,Atlanta,O-,High School,Self-employed,"$30,000 ",Excellent,600,2022-03-22
+2508,CHRIStIna bROwN,22,,Atlanta,B+,PhD,Employed,"$100,000 ",Average,790,2023-04-30
+2136,connIE pAGe,35,,Atlanta,A+,PhD,Retired,$0 ,Average,537,2024-02-06
+7366,DaViD LopeZ,18,,Atlanta,A+,Bachelor's,Unemployed,$0 ,Excellent,None,2024-04-09
+9514,JAMES wILLIaMs,49,,Atlanta,A-,High School,Unemployed,$0 ,Good,457,2021-12-01
+4441,andreW yANg,29,,Atlanta,AB-,PhD,Unemployed,$0 ,,N/A,2020-10-03
+3693,maUREen duNn,28,,Atlanta,B-,Bachelor's,Retired,$0 ,,None,2023-01-06
+2030,andREw aRnoLd,25,,Atlanta,A-,,Student,$0 ,,N/A,2022-02-25
+8925,MRs. CouRtneY MOore md,58,,Atlanta,AB+,Master's,Self-employed,"$135,068 ",Average,794,2019-09-19
+3874,RaymoND bRuCe,26,,Atlanta,AB+,PhD,Employed,"($50,975)",Good,None,2020-05-13
+9266,samaNtHa bateS,50,,Atlanta,O-,Master's,Unemployed,$0 ,Good,814,2019-06-14
+9935,MaTTheW burNEtT,28,,Atlanta,AB-,PhD,Self-employed,"($102,073)",Poor,780,2021-04-29
+9775,liNda BUtler,1,,Atlanta,O+,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2023-11-07
+9267,aNgEla WIley,34,,Atlanta,A-,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2020-05-13
+6011,AusTIn AndERson,36,,Atlanta,AB-,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2020-07-14
+8806,deBorAh gArNer,43,,Atlanta,A+,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2021-10-12
+9862,eRic sMIth,34,,Atlanta,AB-,Associate,Unemployed,$0 ,,N/A,2020-10-23
+7483,CarrIE wHitEHEAD,45,,Atlanta,O-,PhD,Employed,"$110,000 (Commission)",Good,830,2024-03-03
+3608,dOmINIqUE MaLDOnADO,28,,Atlanta,A-,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2020-03-11
+1378,jorGe singh,30,,Atlanta,O+,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2023-08-29
+8582,jIlL LANe,51,,Atlanta,AB-,Bachelor's,Student (Full-time),$0 ,Excellent,None,2020-06-17
+9443,jAMES NGuyEn,43,,Atlanta,AB+,PhD,Self-employed,$0 (Business Closed),Poor,480,2023-02-26
+4231,dEbbIe sHaw,22,,Atlanta,A+,,Unemployed,$0 ,Excellent,N/A,2021-02-08
+1652,emIlY vAldEZ,28,,Atlanta,B+,High School,Employed,"$40,000 ",Good,720,2022-01-08
+5960,AlEJandRo PiErce,22,,Atlanta,B-,Bachelor's,Student,$0 ,Excellent,None,2023-02-10
+5521,oMaR LoPEZ,60,,Atlanta,AB-,,Self-employed,"$60,000 (Unstable)",Poor,580,2020-09-03
+8671,MArilyN fiGUEroa,50,,Atlanta,B-,Master's,Unemployed,$0 ,Average,650,2019-05-14
+3135,sArA Green,32,,Atlanta,A+,PhD,Retired,"$75,000 (Pension)",Excellent,810,2023-06-02
+4239,JeSsicA MilLEr,40,,Atlanta,AB-,Associate,Employed,"$50,000 ",Good,780,2023-02-01
+7050,JoNaTHan gArcIa,34,,Atlanta,AB-,High School,Unemployed,$0 ,Poor,N/A,2022-10-06
+4657,jOHn ThOmPsoN,15,,Atlanta,B+,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2024-04-30
+3655,clifFoRd belL,62,,Atlanta,A-,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2020-05-15
+3104,ChARlEs finlEY,15,,Atlanta,A-,,Student (Full-time),$0 ,Good,None,2024-04-17
+3490,MrS. MOnICA Craig,40,,Atlanta,O-,PhD,Employed,"$120,000 ",Excellent,830,2019-09-17
+1377,HEiDI EVaNs,16,,Atlanta,A+,Associate,Unemployed,$0 ,Poor,550,2019-06-16
+4682,MR. tImOtHY hOwARd,23,,Atlanta,A+,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2021-05-04
+5400,MarIO CoX,26,,Atlanta,B-,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2022-01-06
+8760,lUIs BarNES,33,,Atlanta,O-,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2020-08-12
+4567,SydNeY tuCker,37,,Atlanta,AB+,PhD,Unemployed,$0 ,Poor,N/A,2022-09-21
+2145,andre HArVEy,47,,Atlanta,AB-,Associate,Employed,"$45,000 ",Average,680,2022-10-04
+9508,KIMBErly vasqueZ,39,,Atlanta,A-,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2023-10-23
+5396,beNjAmIn KErR,28,,Atlanta,B+,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2022-07-04
+7063,ALeXIS sImMoNs,63,,Atlanta,A-,,Unemployed,$0 ,Poor,480,2022-03-31
+1612,DAvid HEnsleY,26,,Atlanta,AB+,PhD,Employed,"$130,000 (Commission)",Average,710,2020-03-03
+7994,CHrIstinE DYEr,35,,Atlanta,O+,Associate,Unemployed,$0 ,Good,N/A,2021-01-08
+5718,sHari wIllIaMs,46,,Atlanta,B+,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2021-08-17
+7674,tammy jaCKSon,55,,Atlanta,A-,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2024-02-14
+5838,KiMBErLy cRawFOrd,23,,Atlanta,AB-,Master's,Retired,"$60,000 (Social Security)",Average,740,2021-07-08
+6398,dONnA smitH,27,,Atlanta,B+,PhD,Unemployed,$0 ,Poor,N/A,2019-08-29
+2748,TAylOr pEteRSEn,28,,Atlanta,A+,Associate,Employed,"$50,000 ",Good,690,2023-07-20
+9571,CHriS sTEVeNsON,22,,Atlanta,A-,High School,Student (Full-time),$0 ,Excellent,None,2019-10-10
+3625,LesLIe CoLlins,16,,Atlanta,O-,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2019-11-12
+9956,DEBORaH moORE,22,,Atlanta,O+,,Unemployed,$0 ,Average,450,2020-03-09
+6807,JAMeS hOrtOn,83,,Atlanta,A+,PhD,Employed,"$140,000 (Commission)",Good,730,2021-08-23
+5653,kArLa CrAWFoRd,30,,Atlanta,O+,Associate,Unemployed,$0 ,Poor,N/A,2023-10-10
+1625,PetEr spENcer,17,,Baltimore,O-,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2021-03-10
+8000,lIsA McCLure,26,,Baltimore,A-,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2022-09-07
+4648,mARilYN TRAn,21,,Baltimore,AB-,Master's,Retired,"$65,000 (Social Security)",Good,760,2023-07-04
+5795,niCOLe hARRison,61,,Baltimore,O+,Master's,Student (Full-time),$0 ,Excellent,None,2022-06-21
+6374,cHad MAldOnadO,46,,Baltimore,O-,PhD,Employed,"$90,000 ",Good,800,2019-07-05
+6486,ARiaNa brOWN,27,,Baltimore,B+,Associate,Unemployed,$0 ,Poor,N/A,2020-02-10
+2223,Robert DUnN,21,,Baltimore,B+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2022-09-12
+9887,tEReSA HARriSOn,16,,Baltimore,O-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2021-06-14
+5319,ThOMAS arNold,21,,Balti,A-,,Retired,"$40,000 (Pension)",Good,710,2021-02-09
+7679,crYstAl simPSon,44,,Balti,A+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-11-16
+6229,gEORGe PHILlIPS,34,,Balti,A-,High School,Employed,"$55,000 ",Excellent,780,2021-03-21
+1294,jEFfREY gUtierREz,25,,Balti,B-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2021-06-23
+1360,PAUL maCK,23,,Balti,B+,Master's,Self-employed,"$140,000 ",Excellent,850,2023-05-14
+8658,kIMBeRLy rAmirez,30,,Balti,B-,,Unemployed,$0 ,Poor,420,2024-02-01
+9397,sArah viLLaRReaL,26,,Balti,O+,PhD,Employed,"$100,000 ",Average,750,2023-06-20
+2001,CHLoe hUNT,36,,Balti,O-,Associate,Unemployed,$0 ,Good,N/A,2019-12-05
+8071,Heidi POpe,21,,Balti,B+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2021-11-22
+6829,megAn GRaY,27,,Balti,AB-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2023-07-29
+6746,SANdra SotO,30,,Balti,AB+,Master's,Retired,"$50,000 (Social Security)",Average,700,2019-05-24
+3202,brenda LE,19,,Baltimore,A+,PhD,Unemployed,$0 ,Poor,N/A,2020-10-27
+2311,Lori riVaS,31,,Baltimore,A-,Associate,Employed,"$40,000 ",Good,650,2020-09-18
+1667,rOGEr HaMiLtOn,34,,Baltimore,O-,High School,Student (Full-time),$0 ,Excellent,None,2020-05-16
+5730,MelissA WaLleR,24,,Baltimore,B-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2020-05-15
+5311,daRRYl wiLliaMs,31,,Baltimore,AB+,,Unemployed,$0 ,Average,400,2021-06-26
+1309,mOnIca wALKeR,33,,Baltimore,A-,PhD,Employed,"$110,000 (Commission)",Good,770,2021-02-10
+4342,tERESa CampbELL,24,,Baltimore,A-,Associate,Unemployed,$0 ,Poor,N/A,2020-05-23
+3499,frEDeriCK MCiNtOsh,25,,Baltimore,O+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2020-09-23
+4463,DeBRa hArriS,22,,Baltimore,A-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-06-23
+2833,ChAd GrEEn,23,,Baltimore,A+,Master's,Retired,"$55,000 (Social Security)",Good,730,2021-10-21
+6237,TErRy mARTIn,52,,Baltimore,O+,PhD,Unemployed,$0 ,Excellent (?!),N/A,2022-09-27
+5854,madISon PAlmEr,34,,Baltimore,A+,Associate,Unemployed,$0 ,Poor,N/A,2020-11-12
+7107,MIchaEl JONes,32,,Baltimore,A+,Master's,Self-employed,"$120,000 ",Good,810,2023-10-30
+9695,mICHAEL nEwMAn,26,,Baltimore,A+,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2022-01-20
+6804,LindSEY tURNeR,39,,Baltimore,B+,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2021-12-14
+8561,NIcoLE HaLL,28,,Baltimore,A+,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2022-04-13
+5697,LeSlie rotH,29,,Baltimore,B-,Master's,Student (Full-time),$0 ,Excellent,None,2024-03-27
+7702,rOBert ROBeRtS,37,,Baltimore,A-,PhD,Employed,"$90,000 ",Good,800,2024-03-18
+8569,ERic TorRES,19,,Baltimore,B+,Associate,Unemployed,$0 ,Poor,N/A,2023-01-06
+7401,REbecCA moore,22,,Baltimore,O+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2019-09-03
+5245,STEve goODMAN,27,,Baltimore,O+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2023-02-09
+1368,TErESa StRong,32,,Baltimore,B-,,Retired,"$40,000 (Pension)",Good,710,2022-03-31
+4201,BRaNdon SMiTh,18,,Baltimore,AB-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2019-12-15
+9643,MoNiCA WhITe,21,,Baltimore,AB-,High School,Employed,"$55,000 ",Excellent,780,2022-03-12
+4358,saRa HARRIs,25,,Baltimore,AB+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2023-03-04
+6443,katHLEeN saNdovAl,17,,Baltimore,AB-,Master's,Self-employed,"$140,000 ",Excellent,850,2019-08-25
+6397,CAROLinE milleR,19,,Baltimore,AB-,,Unemployed,$0 ,Poor,420,2022-04-27
+9364,JENnIfeR BAKEr,20,,Baltimore,AB+,PhD,Employed,"$100,000 ",Average,750,2024-01-29
+9405,KrIsTIna PAynE,28,,Baltimore,AB+,Associate,Unemployed,$0 ,Good,N/A,2021-03-13
+4931,sTAcy jOnes,17,,Baltimore,AB+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2023-11-28
+6804,MichaEl RaMoS,37,,Baltimore,AB-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2020-05-25
+7605,MichAEl MezA,36,,Baltimore,O+,Master's,Retired,"$50,000 (Social Security)",Average,700,2022-02-01
+5493,rAndY sHAW,40,,Baltimore,B+,PhD,Unemployed,$0 ,Poor,N/A,2020-02-06
+1134,aNn sUllIVAn,48,,Baltimore,B-,Associate,Employed,"$40,000 ",Good,650,2024-02-08
+3636,Amy wHIte,19,,Baltimore,B+,High School,Student (Full-time),$0 ,Excellent,None,2023-02-09
+2455,nichOlAS SulLIvAN,17,,Baltimore,B+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2020-12-15
+9366,jENniFER jOhnsON,18,,Baltimore,AB+,,Unemployed,$0 ,Average,400,2024-02-29
+4321,jonAtHaN yOUNG,27,,Baltimore,B+,PhD,Employed,"$110,000 (Commission)",Good,770,2024-02-18
+1393,GLEnn RodrIgueZ,49,,Baltimore,A+,Associate,Unemployed,$0 ,Poor,N/A,2023-07-02
+1334,chrisTOPhER HurSt,65,,Baltimore,AB+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2020-05-30
+4655,patRIcK smITh,30,,Baltimore,AB-,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2021-04-16
+6118,mArk LAne,21,,Baltimore,AB+,Master's,Retired,"$55,000 (Social Security)",Good,730,2021-09-16
+3044,aMANDa wIlson,54,,Baltimore,B-,Master's,Student (Full-time),$0 ,Excellent,None,2021-07-23
+1494,cARrie ScoTt,19,,Baltimore,AB-,PhD,Employed,"$150,000 (Commission)",Good,820,2021-03-12
+4010,DaltoN TuCKEr,17,,Baltimore,A-,Associate,Unemployed,$0 ,Poor,N/A,2019-05-26
+3402,cyNTHiA willIams,39,,Baltimore,A-,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2023-11-01
+3328,StevEn PRIcE,18,,Baltimore,AB+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2022-06-11
+1615,anNa ClEMENtS,16,,Baltimore,A-,,Unemployed,$0 ,Poor,380 (Typo),2022-03-11
+7490,hEIdI BuCHanan,23,,Baltimore,A-,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2023-04-03
+5772,aNneTte PruiTt,23,,Baltimore,A-,High School,Employed,"$60,000 ",Excellent,800,2021-03-24
+4247,karI welLs,16,,Baltimore,AB+,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-07-09
+2335,JAY galloWaY,21,,Baltimore,O+,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2021-01-20
+6901,cLiFfOrD lEe,21,,Baltimore,A-,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2020-05-22
+2846,mELISSa nGuYen,39,,Baltimore,A-,High School (GED),Unemployed,$0 ,Poor,N/A,2022-09-19
+1433,zaChaRY reED,25,,Baltimore,AB-,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2023-08-12
+9501,JUDY RUIz,20,,Baltimore,O+,,Student (Internship),"$20,000 (Stipend)",Good,None,2020-08-09
+6628,daVID bOwmAN,16,,Baltimore,O+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2023-06-19
+8061,erICA STeVENS,25,,Baltimore,O+,Master's,Unemployed,$0 ,Poor,N/A,2019-09-03
+6319,JoRDAN waRREn,45,,Baltimore,O+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2022-10-16
+2259,lEE WHIte,23,,Baltimore,AB-,High School,Employed,"$60,000 ",Excellent,810,2021-10-31
+5150,JULiE goNZalez,29,,Baltimore,B+,Bachelor's,Student (Full-time),$0 ,Good,None,2022-08-19
+5562,SuMmer heRmAN,23,,Baltimore,A-,,Self-employed,"$120,000 (Seasonal)",Average,660,2023-08-09
+1306,anGeLa cOx,18,,Baltimore,O-,Associate,Unemployed,$0 ,Poor,N/A,2020-12-02
+3797,stevEn wILLIams,25,,Baltimore,AB-,PhD,Employed,"$130,000 (Commission)",Good,740,2019-08-23
+3098,sUsan leE,35,,Baltimore,AB+,Master's,Student (Full-time),$0 ,Excellent,None,2021-09-14
+9382,WILLiAm rODriGuez,36,,Baltimore,B-,PhD,Employed,"$90,000 ",Good,800,2020-04-21
+4620,mike mcbRIdE,30,,Baltimore,AB+,Associate,Unemployed,$0 ,Poor,N/A,2023-08-07
+5266,HEaTHeR cARtEr,22,,Baltimore,B+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2020-07-13
+7037,ELiZABeth iBaRrA,31,,Baltimore,B-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2019-07-31
+8338,GRACE haWKinS,16,,Baltimore,O+,,Retired,"$40,000 (Pension)",Good,710,2022-05-11
+4552,Kiara CLARk,24,,Baltimore,A-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2021-02-03
+3075,KImBeRLy wElcH,31,,Baltimore,AB-,High School,Employed,"$55,000 ",Excellent,780,2023-11-23
+8808,JeFfREy baILey,18,,Baltimore,A+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2023-01-31
+4850,JOhN FoX,23,,Baltimore,A+,Master's,Self-employed,"$140,000 ",Excellent,850,2024-04-20
+3842,sHAuN ACoSTa,23,,Baltimore,O+,,Unemployed,$0 ,Poor,420,2023-11-20
+8946,RogER SOtO,24,,Baltimore,B-,PhD,Employed,"$100,000 ",Average,750,2019-07-05
+7034,hAnNaH bArton,23,,Baltimore,AB+,Associate,Unemployed,$0 ,Good,N/A,2019-06-02
+2736,ChrISTopheR CaSTIlLo,26,,Baltimore,B+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2020-04-06
+5896,lARry SinGleTOn,25,,Baltimore,A-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2022-04-05
+1164,THomaS DonAldson,23,,Baltimore,AB-,Master's,Retired,"$50,000 (Social Security)",Average,700,2019-06-26
+7350,tIMoTHY MEadOWs,17,,Baltimore,O-,PhD,Unemployed,$0 ,Poor,N/A,2023-03-15
+8832,DANiel brooKs,22,,Baltimore,AB-,Associate,Employed,"$40,000 ",Good,650,2022-08-26
+8247,TIm daVIs,29,,Baltimore,B+,High School,Student (Full-time),$0 ,Excellent,None,2020-02-06
+8318,ThEREsa WrIGHt,29,,Baltimore,B-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2024-03-19
+2962,BrIAn dOWNS,30,,Baltimore,AB-,,Unemployed,$0 ,Average,400,2022-07-07
+7032,ThomAs LeE,19,,Baltimore,AB+,PhD,Employed,"$110,000 (Commission)",Good,770,2024-01-19
+2234,CUrTis GArCia,21,,Baltimore,A-,Associate,Unemployed,$0 ,Poor,N/A,2022-01-13
+6090,TaMMY rIveRs,16,,Baltimore,B-,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2020-04-26
+9541,BRAnDON jOHnson,22,,Baltimore,AB+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2023-12-21
+7303,PEter RichARDSON,23,,Baltimore,AB+,Master's,Retired,"$55,000 (Social Security)",Good,730,2020-01-04
+9126,MRS. rAcHEL sPeNcER,19,,Baltimore,A+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2020-02-08
+4437,chrISTOpheR GReEn,22,,Baltimore,AB-,High School (GED),Unemployed,$0 ,Poor,N/A,2022-04-29
+2107,wILLiAm SIms,18,,Baltimore,B+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2020-04-05
+1740,LISA BooKeR,49,,Baltimore,O+,,Student (Internship),"$20,000 (Stipend)",Good,None,2019-12-02
+1680,BoNnie bUckLey,52,,Baltimore,A-,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2021-03-19
+8445,EliZAbeTh MicHAeL,31,,Baltimore,B-,Master's,Unemployed,$0 ,Poor,N/A,2023-10-07
+5332,JASOn Lynch,30,,Baltimore,A+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2021-09-10
+5652,aMBER ORtiz,32,,Baltimore,O+,High School,Employed,"$60,000 ",Excellent,810,2021-10-14
+5995,sUsaN LynCh,19,,Baltimore,AB+,Bachelor's,Student (Full-time),$0 ,Good,None,2023-10-24
+9203,ANdRew WaLsH,27,,Baltimore,B-,,Self-employed,"$120,000 (Seasonal)",Average,660,2022-12-28
+2479,maRy beLl,17,,Baltimore,O+,Associate,Unemployed,$0 ,Poor,N/A,2023-12-31
+3808,mOniCA JameS,18,,Baltimore,B+,PhD,Employed,"$130,000 (Commission)",Good,740,2022-02-07
+4693,aMY OsBorNE,26,,Baltimore,A+,Bachelor,Employed,"$80,000 ",Good,720,2020-06-12
+1940,zaCHaRy riCE,31,,Baltimore,AB-,Associate,Unemployed,$0 ,Excellent,N/A,2022-10-16
+4687,AnTHony JoNeS,24,,Baltimore,AB-,PhD,Self-employed,"$120,000 ",Poor,550,2022-01-11
+3112,ChrISTiNA burNS,72,,Baltimore,B+,High School,Employed,"$45,000 ",Excellent,800,2022-11-13
+3949,kAtheriNe bass,28,,Baltimore,O-,Master's,Retired,"$50,000 ",Average,680,2022-07-24
+9375,clAUDIa tyLER,30,,Baltimore,AB+,,Student,$0 ,Good,N/A,2019-06-25
+8070,RObERT edWArds,33,,Baltimore,AB-,,Unemployed,Missing,Poor,400,2020-06-19
+7670,JILL sErRaNO,31,,Baltimore,AB+,Associate,Employed,"$65,000 ",,750,2020-02-06
+6103,tRoY goULd,29,,Baltimore,A+,High School,Self-employed,"$30,000 ",Excellent,600,2023-12-17
+6931,John HOBbS,32,,Baltimore,B-,PhD,Employed,"$100,000 ",Average,790,2022-08-05
+7184,MArK hUnteR,18,,Baltimore,O+,PhD,Retired,$0 ,Average,537,2020-09-28
+2315,ChRistiNa MiLLeR,44,,Baltimore,O+,Bachelor's,Unemployed,$0 ,Excellent,None,2020-09-16
+2112,aNDReA torReS,18,,Baltimore,A-,High School,Unemployed,$0 ,Good,457,2020-01-27
+7101,christiaN WAShINGTON md,17,,Baltimore,A-,PhD,Unemployed,$0 ,,N/A,2020-06-11
+7786,CHRIstOphER ChARleS,28,,Baltimore,B-,Bachelor's,Retired,$0 ,,None,2019-12-04
+3099,saRA hall,15,,Baltimore,A+,,Student,$0 ,,N/A,2020-12-05
+5635,JOsHua PATeL,22,,Baltimore,A-,Master's,Self-employed,"$135,068 ",Average,794,2021-05-22
+3895,BrianNa MoreNo,36,,Baltimore,O+,PhD,Employed,"($50,975)",Good,None,2022-06-02
+3924,Jenna TURneR,40,,Baltimore,B-,Master's,Unemployed,$0 ,Good,814,2022-07-31
+1861,JEFFrEY Long,23,,Baltimore,B+,PhD,Self-employed,"($102,073)",Poor,780,2019-08-16
+7005,aLexANdeR bISHoP,43,,Baltimore,AB-,High School,Freelance,"$25,000 (Hourly)",Excellent,720,2022-02-08
+2021,jOhN YOUng,26,,Baltimore,A+,,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-03-23
+5904,HEathEr sancheZ,21,,Baltimore,A+,Master's,Retired (Early),"$35,000 (Pension)",Average,650,2021-02-17
+8806,AmanDa WHitE,35,,Baltimore,O+,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500,2019-06-01
+6317,bruCE cox,24,,Baltimore,A+,Associate,Unemployed,$0 ,,N/A,2020-09-24
+5597,gEoRGE WolFe,40,,Baltimore,B-,PhD,Employed,"$110,000 (Commission)",Good,830,2019-08-01
+6564,SHanNOn wILliAMson,53,,Baltimore,A-,Master's,Retired,"$48,000 (Social Security)",Excellent,750,2021-05-31
+8071,JuliE rIvaS,27,,Baltimore,O+,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420,2022-09-15
+7364,RoGER eScobAr,36,,Baltimore,O+,Bachelor's,Student (Full-time),$0 ,Excellent,None,2020-11-19
+3627,Tammy hall,36,,Baltimore,A-,PhD,Self-employed,$0 (Business Closed),Poor,480,2019-07-27
+5580,TYLER camPbelL,28,,Baltimore,O-,,Unemployed,$0 ,Excellent,N/A,2021-06-30
+2153,nICHOlAS gaRcIA,28,,Baltimore,B-,High School,Employed,"$40,000 ",Good,720,2022-03-21
+3623,DesIRee FraZiEr,21,,Baltimore,AB-,Bachelor's,Student,$0 ,Excellent,None,2024-04-22
+3806,BiANCA jOhNSoN,25,,Baltimore,B+,,Self-employed,"$60,000 (Unstable)",Poor,580,2021-08-27
+6693,weNDY CAIN,52,,Baltimore,O+,Master's,Unemployed,$0 ,Average,650,2022-10-17
+6777,VeROnIca mEYEr,30,,Baltimore,O-,PhD,Retired,"$75,000 (Pension)",Excellent,810,2024-03-09
+3257,ElizABETH rAmirEZ,39,,Baltimore,O+,Associate,Employed,"$50,000 ",Good,780,2023-06-04
+1699,BretT sTEvenS,31,,Baltimore,AB+,High School,Unemployed,$0 ,Poor,N/A,2020-08-04
+4361,marIO HaLeY,40,,Baltimore,O+,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700,2022-12-26
+8670,PaTRIcK OweNs,25,,Baltimore,B+,Master's,Self-employed,"$100,000 (Seasonal)",Average,690,2021-06-19
+9120,kaRen clarK,53,,Baltimore,B-,,Student (Full-time),$0 ,Good,None,2021-11-29
+8474,SaraH jEnsen,15,,Baltimore,A+,PhD,Employed,"$120,000 ",Excellent,830,2019-07-14
+8508,cHriSToPhEr mArshAlL,59,,Baltimore,B-,Associate,Unemployed,$0 ,Poor,550,2019-08-15
+8371,brEnda dAvIS,29,,Baltimore,B-,High School,Gig Worker,"$35,000 (Unstable)",Average,620,2021-03-16
+9094,anGeLA YounG md,37,,Baltimore,A+,Bachelor's,Employed (Contract),"$80,000 ",Good,750,2023-02-14
+9811,brIaN SMiTh,23,,Baltimore,B-,Master's,Retired,"$55,000 (Social Security)",Excellent,790,2022-05-31
+5914,REbEcca jaMeS,24,,Baltimore,O+,PhD,Unemployed,$0 ,Poor,N/A,2023-03-31
+2177,JACob FarmER,25,,Baltimore,B-,Associate,Employed,"$45,000 ",Average,680,2021-03-22
+5286,daniEl FLORes,20,,Baltimore,AB+,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None,2021-11-16
+5843,MARCuS gilLEspIE,22,,Baltimore,AB-,Bachelor's,Self-employed,"$110,000 ",Excellent,820,2022-10-26
+6519,SUSan jOHNSon,24,,Baltimore,AB-,,Unemployed,$0 ,Poor,480,2020-10-30
+3668,mArIE tURNeR,26,,Baltimore,AB+,PhD,Employed,"$130,000 (Commission)",Average,710,2023-05-03
+1045,BRian LArSON,18,,Baltimore,AB-,Associate,Unemployed,$0 ,Good,N/A,2021-01-21
+7414,anTOniO cONtRERaS,29,,Baltimore,O-,High School,Gig Worker,"$28,000 (Unstable)",Poor,520,2023-12-11
+4166,meLAnie mORalEs,41,,Baltimore,B-,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770,2020-12-18
+5184,AmANDa hEBERt,27,,Baltimore,A+,Master's,Retired,"$60,000 (Social Security)",Average,740,2022-06-20
+2098,james ward,37,,Baltimore,O-,PhD,Unemployed,$0 ,Poor,N/A,2020-12-02
+3174,nIcOLE fLyNn,30,,Baltimore,O-,Associate,Employed,"$50,000 ",Good,690,2024-03-05
+5941,ThOMAs sUtton,42,,Baltimore,A+,High School,Student (Full-time),$0 ,Excellent,None,2023-03-07
+1933,brAndI woodArD,25,,Baltimore,AB-,Bachelor's,Self-employed,"$120,000 ",Excellent,840,2021-12-10
+3662,jACoB CuNNINGhAM,44,,Baltimore,O-,,Unemployed,$0 ,Average,450,2019-07-13
+9617,mArK armsTroNg,21,,Baltimore,AB-,PhD,Employed,"$140,000 (Commission)",Good,730,2020-08-11
+8126,marK RoDRigUez,20,,Baltimore,O+,Associate,Unemployed,$0 ,Poor,N/A,2022-03-04
+8990,JImmy JonES,35,,Baltimore,AB-,High School,Gig Worker,"$32,000 (Unstable)",Average,600,2020-06-03
+4056,DavId hOWaRd,18,,Baltimore,O-,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790,2023-12-30
+4886,aManDa mIlLs,28,,Baltimore,A-,Master's,Retired,"$65,000 (Social Security)",Good,760,2020-06-04
+8825,DaNieL moOre,20,,Baltimore,O-,Master's,Student (Full-time),$0 ,Excellent,None,2019-10-21
+2182,MicHaEl BRuce,19,,Baltimore,A+,PhD,Employed,"$90,000 ",Good,800,2021-06-04
+7390,tiMOthY bEnNeTt,27,,Baltimore,O-,Associate,Unemployed,$0 ,Poor,N/A,2020-11-30
+5405,CArlOs burton,27,,Baltimore,A+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2023-10-08
+4841,NIColE nguyEn,29,,Baltimore,O-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2022-06-17
+3079,MAtTHeW HaRPER,30,,Baltimore,A-,,Retired,"$40,000 (Pension)",Good,710,2021-02-28
+2908,jAmiE PRiCe,20,,Baltimore,A-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2022-07-19
+7585,ThomAS hiCks,28,,Baltimore,AB-,High School,Employed,"$55,000 ",Excellent,780,2020-06-17
+8350,mICHElle huGhES,27,,Baltimore,B-,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2024-03-29
+2396,CasSIE NELSoN,51,,Baltimore,AB+,Master's,Self-employed,"$140,000 ",Excellent,850,2022-08-01
+1775,ErIc tUrNeR,17,,Baltimore,A+,,Unemployed,$0 ,Poor,420,2022-12-19
+6715,shArON sMiTH,40,,Baltimore,AB-,PhD,Employed,"$100,000 ",Average,750,2023-11-30
+6972,nANCy MAy,15,,Baltimore,O-,Associate,Unemployed,$0 ,Good,N/A,2020-07-12
+7051,eLiZaBETh FlOrEs,35,,Baltimore,O+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,45243
+7895,DaVID FlorEs,28,,Baltimore,A-,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,43935
+7526,joSePh CohEn jR.,26,,Baltimore,A+,Master's,Retired,"$50,000 (Social Security)",Average,700,43624
+7241,rIcHArd HAmMOnd,18,,Baltimore,A-,PhD,Unemployed,$0 ,Poor,N/A,43647
+8025,RicHARd HInes,44,,Baltimore,B+,Associate,Employed,"$40,000 ",Good,650,45008
+7262,JUstIn bRYANt,23,,Baltimore,AB+,High School,Student (Full-time),$0 ,Excellent,None,45292
+6507,ErNEsT TAyLOR,23,,Baltimore,B+,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,45130
+9789,tyRONe NEWMan,20,,Baltimore,AB+,,Unemployed,$0 ,Average,400,44776
+6212,nicole thOrNtOn,21,,Baltimore,A-,PhD,Employed,"$110,000 (Commission)",Good,770,44420
+5788,dawN tHomas,17,,Baltimore,A+,Associate,Unemployed,$0 ,Poor,N/A,44537
+3722,JeSsIca booTh,60,,Baltimore,O+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,44126
+4033,dOuGLAs MyERs,17,,Baltimore,O+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,43843
+2859,kEndrA WalKeR,29,,Baltimore,AB-,Master's,Retired,"$55,000 (Social Security)",Good,730,45037
+2454,ChRis nUNeZ,27,,Baltimore,B+,PhD,Unemployed,$0 ,Excellent (?!),N/A,45290
+6915,tHOmaS martIN,29,,Baltimore,AB+,Associate,Unemployed,$0 ,Poor,N/A,43754
+3032,jeSSE sutTOn,20,,Baltimore,O-,Master's,Self-employed,"$120,000 ",Good,810,2023-05-17
+6279,lINDA kenNEDY,27,,Baltimore,O+,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690,2019-10-30
+2653,AllIsOn pricE,26,,Baltimore,AB+,PhD,Gig Worker,"$50,000 (Unstable)",Average,700,2022-03-20
+6230,fRED sNYDer,26,,Baltimore,O-,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590,2021-12-29
+3179,JorGE rIchaRD,23,,Baltimore,AB+,Master's,Student (Full-time),$0 ,Excellent,None,2022-09-18
+5381,JAsOn MartINeZ,24,,Baltimore,O-,PhD,Employed,"$90,000 ",Good,800,2022-03-04
+5952,SAMaNTha gArZA,25,,Baltimore,AB+,Associate,Unemployed,$0 ,Poor,N/A,2021-11-13
+4504,ROBert niChols,40,,Baltimore,O+,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2019-05-18
+8996,BRETT mARshAll,40,,Baltimore,B+,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2021-11-10
+5366,bRIAnna LeE,46,,Baltimore,A+,,Retired,"$40,000 (Pension)",Good,710,2021-03-16
+3841,ChaSe goOD,37,,Baltimore,O-,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2022-11-07
+7098,baRBARa yOung,81,,Baltimore,A-,High School,Employed,"$55,000 ",Excellent,780,2020-01-12
+4674,mIchaeL cHRisTiaN,24,,Baltimore,B+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2023-02-28
+1854,sEAN GRAY,56,,Baltimore,B+,Master's,Self-employed,"$140,000 ",Excellent,850,2022-06-03
+6177,mICHAel hIll,24,,Baltimore,O+,,Unemployed,$0 ,Poor,420,2019-11-21
+2631,bRIaNA bOwen,30,,Baltimore,O+,PhD,Employed,"$100,000 ",Average,750,2024-04-18
+5764,jEfF mOSS,20,,Baltimore,B-,Associate,Unemployed,$0 ,Good,N/A,2021-01-26
+3299,RoNald paRK,35,,Baltimore,A+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2019-09-09
+3887,MattHEw riVERa,19,,Baltimore,O+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2019-11-14
+6923,kimbErlY SINglETon,21,,Baltimore,AB+,Master's,Retired,"$50,000 (Social Security)",Average,700,2022-12-02
+1402,SaBrINa GOnZaleZ,40,,Baltimore,AB-,PhD,Unemployed,$0 ,Poor,N/A,2020-05-17
+7128,sTevEn THoMPSON,16,,Baltimore,O+,Associate,Employed,"$40,000 ",Good,650,2020-12-16
+1669,laURen CUEVaS,33,,Baltimore,B-,High School,Student (Full-time),$0 ,Excellent,None,2021-08-19
+7884,MiCHaEL GomeZ,47,,Baltimore,AB-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2020-10-10
+6826,dENISE ramIReZ,39,,Baltimore,O-,,Unemployed,$0 ,Average,400,2022-08-08
+3169,jOrDaN BROwn,21,,Baltimore,A-,PhD,Employed,"$110,000 (Commission)",Good,770,2019-07-31
+3005,dr. DANA LEONard,25,,Baltimore,B+,Associate,Unemployed,$0 ,Poor,N/A,2020-05-27
+9147,eRIc FernaNDeZ,19,,Baltimore,A+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2022-07-10
+7069,ScoTt AnDERSEn,23,,Baltimore,O+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2021-08-31
+2467,dAVE KENnedY,26,,Baltimore,A+,Master's,Retired,"$55,000 (Social Security)",Good,730,2022-08-27
+2841,rOBeRT BURton,31,,Baltimore,O+,Master's,Student (Full-time),$0 ,Excellent,None,2020-03-30
+9100,sTEPHANiE gIbSOn,24,,Baltimore,B+,PhD,Employed,"$150,000 (Commission)",Good,820,2020-10-31
+5890,BrYAn HARpER,31,,Baltimore,A+,Associate,Unemployed,$0 ,Poor,N/A,2023-09-27
+4718,dIanA bEnNett,18,,Baltimore,B+,High School,Gig Worker,"$22,000 (Unstable)",Average,540,2020-04-26
+8381,mariA CaRteR,17,,Baltimore,A+,Bachelor's,Self-employed,"$80,000 ",Excellent,760,2021-08-09
+4492,CHARLES jOHNsON,24,,Baltimore,A-,,Unemployed,$0 ,Poor,380 (Typo),2022-03-27
+1745,DeAnna feRreLl,30,,Baltimore,AB-,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630,2024-02-27
+5896,jErry CrUZ ddS,16,,Baltimore,B-,High School,Employed,"$60,000 ",Excellent,800,2023-03-22
+6963,KrisTa cALdwell,44,,Baltimore,B+,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None,2023-10-28
+7184,kiMbERly mejia,22,,Baltimore,B+,Master's,Self-employed,"$100,000 (Seasonal)",Average,680,2024-04-06
+4884,BaRBaRa claRk,42,,Baltimore,B+,PhD,Employed,"$150,000 (Outlier)",Excellent,880,2020-02-27
+3504,mICHaeL GOMEz,38,,Baltimore,AB+,High School (GED),Unemployed,$0 ,Poor,N/A,2021-07-26
+5489,JoEL boWEN,25,,Baltimore,B+,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,2021-02-24
+5667,scotT MaRTIN,17,,Baltimore,B-,,Student (Internship),"$20,000 (Stipend)",Good,None,2021-02-13
+6620,sHawn kIng,31,,Baltimore,A+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,2020-10-15
+5918,edWIn CaSTIllo,2,,Baltimore,O-,Master's,Unemployed,$0 ,Poor,N/A,2022-03-20
+4417,RoBErT robBiNS,22,,Baltimore,AB+,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2024-01-07
+2789,liNdA wIlSon,36,,Baltimore,A+,High School,Employed,"$60,000 ",Excellent,810,2023-02-26
+9272,jAMES whIte,33,,Baltimore,AB+,Bachelor's,Student (Full-time),$0 ,Good,None,2020-06-02
+8689,alYSSa gOnZalEz,31,,Baltimore,B-,,Self-employed,"$120,000 (Seasonal)",Average,660,2020-12-04
+9476,jAMEs HudSON,13,,Baltimore,O+,Associate,Unemployed,$0 ,Poor,N/A,2024-03-04
+2970,ISAbeLla dAnIeL,19,,Baltimore,AB-,PhD,Employed,"$130,000 (Commission)",Good,740,2023-09-04
+2730,aNDREW JoHNsON,58,,Baltimore,O-,Master's,Student (Full-time),$0 ,Excellent,None,2023-01-15
+2758,BECkY RivERa,24,,Baltimore,AB-,PhD,Employed,"$90,000 ",Good,800,2022-10-09
+2130,DonNA BERNard,24,,Baltimore,B+,Associate,Unemployed,$0 ,Poor,N/A,2020-09-22
+5938,VickIE mArTinez,20,,Baltimore,AB-,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740,2022-12-20
+6561,StepHAnie nIElSEn,24,,Baltimore,AB-,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670,2020-10-27
+1342,tayLOR HuNTer,3,,Baltimore,B+,,Retired,"$40,000 (Pension)",Good,710,2021-10-12
+8381,EMma BENnETt,22,,Baltimore,AB+,Associate,Gig Worker,"$42,000 (Unstable)",Average,640,2023-07-20
+3505,KELLY ZAMOra,19,,Baltimore,AB+,High School,Employed,"$55,000 ",Excellent,780,2023-04-11
+7462,KAra HERring,25,,Baltimore,AB+,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None,2021-05-08
+1226,RiChARd haLl,30,,Baltimore,B-,Master's,Self-employed,"$140,000 ",Excellent,850,2019-12-16
+4898,gReGORY OLSon,36,,Baltimore,AB-,,Unemployed,$0 ,Poor,420,2023-12-27
+5292,maRIa KraMEr,46,,Baltimore,A+,PhD,Employed,"$100,000 ",Average,750,2022-02-09
+1177,kEnneth ClaRk,25,,Baltimore,AB-,Associate,Unemployed,$0 ,Good,N/A,2022-02-28
+2617,ShannoN EdWArds,29,,Baltimore,O+,High School,Gig Worker,"$30,000 (Unstable)",Poor,580,2022-04-21
+9524,ruTH ADaMS,32,,Baltimore,O+,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720,2021-02-09
+6072,CalvIn BArRy,30,,Baltimore,O-,Master's,Retired,"$50,000 (Social Security)",Average,700,2023-01-23
+7419,paMElA lOpeZ,18,,Baltimore,O-,PhD,Unemployed,$0 ,Poor,N/A,2019-11-08
+4057,cAtHERiNe thomPsOn DDs,18,,Baltimore,AB-,Associate,Employed,"$40,000 ",Good,650,2021-06-30
+4307,TRacY martIN,14,,Baltimore,A-,High School,Student (Full-time),$0 ,Excellent,None,2019-07-26
+8937,ChristINa barber,19,,Baltimore,AB-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2021-12-28
+4870,brANDy FrIeDmaN mD,24,,Baltimore,AB-,,Unemployed,$0 ,Average,400,2023-12-21
+6223,AdAm sMItH,20,,Baltimore,A+,PhD,Employed,"$110,000 (Commission)",Good,770,2020-12-23
+6863,CurTiS hArdING,38,,Baltimore,AB+,Associate,Unemployed,$0 ,Poor,N/A,2021-01-27
+9895,aLExAnDer sMIth,32,,Baltimore,A+,High School,Gig Worker,"$38,000 (Unstable)",Average,610,2019-08-10
+9028,maRY WaLKer,24,,Baltimore,O+,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790,2021-04-28
+1378,JESsiCA wooD,25,,Baltimore,O+,Master's,Retired,"$55,000 (Social Security)",Good,730,"Tuesday, March 5, 2024"
+4313,PauLa vEgA,19,,Baltimore,O-,PhD,Employed,"$150,000 (Outlier)",Excellent,880,"Friday, July 1, 2022"
+1403,aMaNdA joHNsON,62,,Baltimore,O-,High School (GED),Unemployed,$0 ,Poor,N/A,"Saturday, February 17, 2024"
+6071,MATthew beNTLeY,22,,Baltimore,AB-,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630,"Friday, December 15, 2023"
+8769,caThy RobiNSon,25,,Baltimore,A+,,Student (Internship),"$20,000 (Stipend)",Good,None,"Sunday, May 14, 2023"
+3491,CAiTLiN hILL,22,,Baltimore,B+,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760,"Thursday, February 2, 2023"
+7372,paM pOwElL,31,,Baltimore,O-,Master's,Unemployed,$0 ,Poor,N/A,"Saturday, June 19, 2021"
+1084,NAncY dAVis,15,,Baltimore,B-,PhD,Gig Worker,"$45,000 (Unstable)",Average,590,2022-10-28
+3180,joNatHAn mILLer,20,,Baltimore,B+,High School,Employed,"$60,000 ",Excellent,810,2023-07-17
+1933,noaH mOOn,48,,Baltimore,O+,Bachelor's,Student (Full-time),$0 ,Good,None,2020-10-17
+9661,JOsE ANDeRsON,23,,Baltimore,O-,,Self-employed,"$120,000 (Seasonal)",Average,660,2023-11-19
+4877,cRaIG cHavEZ,23,,Baltimore,AB-,Associate,Unemployed,$0 ,Poor,N/A,2020-08-24
+6947,Thomas hoode,32,,Baltimore,,PhD,Employed,"$130,000 (Commission)",Good,740,2023-07-17
+8937,ChristINa barber,19,,Baltimore,AB-,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450,2021-12-28
+4870,brANDy FrIeDmaN mD,24,,Baltimore,AB-,,Unemployed,$0 ,Average,400,2023-12-21
+6223,AdAm sMItH,20,,Baltimore,A+,PhD,Employed,"$110,000 (Commission)",Good,770,2020-12-23
