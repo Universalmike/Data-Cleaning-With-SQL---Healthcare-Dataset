@@ -64,9 +64,6 @@ Access to the raw healthcare dataset (dirty_healthcare_data).
 **2. Setup Instructions**
 
 Clone this repository:
-
-bash
-Copy code
 git clone https://github.com/your-username/healthcare-data-cleaning.git
 Run the SQL scripts in the order provided:
 
