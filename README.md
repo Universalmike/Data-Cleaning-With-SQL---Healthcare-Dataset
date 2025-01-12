@@ -1,5 +1,6 @@
-                             **Healthcare Data Cleaning and Analysis**
-   **Overview**
+                             Healthcare Data Cleaning and Analysis
+        **Overview**
+   
 This project focuses on the cleaning and analysis of a healthcare dataset. The data cleaning process aims to remove duplicates, handle missing values, and standardize columns, making the data ready for further analysis. The analysis identifies cities or demographics with higher healthcare needs based on health conditions and admission dates.
 
    **Data Cleaning Process**
@@ -33,23 +34,36 @@ Cities with Poor Health Conditions: This query identifies cities with the highes
 sql
 
 SELECT City, COUNT(Health_Condition) as poor_state
+
 FROM dirty_healthcare_data
+
 WHERE Health_Condition = 'Poor'
+
 GROUP BY City
+
 ORDER BY poor_state
+
 The city of Atlanta was identified as having the highest number of patients with poor health conditions.
+
 
 Cities Based on Admission Dates: This query examines the top 30 cities with the most recent admissions for patients reporting poor health conditions.
 
 sql
 
-'''SELECT City, Count(City) as cities_with_higher_health_needs'''
+SELECT City, Count(City) as cities_with_higher_health_needs'''
+
 FROM (SELECT TOP (30) City, Date_of_Admission, Health_Condition
+
 FROM dirty_healthcare_data
+
 WHERE Health_Condition = 'Poor'
+
 ORDER BY Date_of_Admission DESC
+
 ) as sub
+
 GROUP BY City
+
 Based on admission dates, Atlanta also had a high number of patients with poor health conditions.
 
 **Limitations of the Data**
@@ -60,12 +74,15 @@ Based on admission dates, Atlanta also had a high number of patients with poor h
 **Reliability of Data for Predictive Modeling:** Due to issues with the Age and Gender columns, the data may not be fully reliable for building predictive models. The presence of outliers and missing values may affect the performance of any machine learning model built using this dataset.
 
 **Project Setup**
+
 **1. Prerequisites**
 Before running the SQL scripts in this repository, ensure you have the following:
 
 A database management system (DBMS) like SQL Server or Microsoft SQL Server Management Studio (SSMS).
 Access to the raw healthcare dataset (dirty_healthcare_data).
+
 **2. Setup Instructions**
+
 Clone this repository:
 
 bash
