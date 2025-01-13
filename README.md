@@ -78,5 +78,9 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Acknowledgements**
+
+Appreciation to GreenData Solutions for providing the dirty data that was cleaned
+
 SQL Server for providing a powerful platform to perform the data cleaning and analysis.
+
 GitHub for providing a platform to share the findings.
