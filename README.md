@@ -1,7 +1,8 @@
+![GreenData Solutions 20250113_222414](https://github.com/user-attachments/assets/cf099813-841d-40a3-bd06-dcaddff281ea)
  Healthcare Data Cleaning and Analysis
      **Overview**
    
-This project focuses on the cleaning and analysis of a healthcare dataset. The data cleaning process aims to remove duplicates, handle missing values, and standardize columns, making the data ready for further analysis. The analysis identifies cities or demographics with higher healthcare needs based on health conditions and admission dates.
+This project focuses on the cleaning and analysis of a healthcare dataset by GreenData Solutions(10 Days Data Cleaning Challenge). The data cleaning process aims to remove duplicates, handle missing values, and standardize columns, making the data ready for further analysis. The analysis identifies cities or demographics with higher healthcare needs based on health conditions and admission dates.
 
    **Data Cleaning Process**
 **1. Duplicates Removal**
